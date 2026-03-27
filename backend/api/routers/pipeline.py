@@ -400,6 +400,20 @@ def _enforce_scraped_only_answers(company_id: int, year: int) -> tuple[int, int,
             if row[0]
         }
 
+        # Some extracted answers are valid even when not mirrored in scraped_data.source.
+        trusted_source_tokens = (
+            "real_pdf",
+            "document",
+            "web_scraped",
+            "pattern",
+            "comprehensive",
+            "online_provisional",
+            "nse",
+            "annual",
+            "openstreetmap",
+            "geocoded",
+        )
+
         answers = (
             db.query(Answer)
             .filter(Answer.company_id == company_id, Answer.year == year)
@@ -416,7 +430,10 @@ def _enforce_scraped_only_answers(company_id: int, year: int) -> tuple[int, int,
         for ans in answers:
             src = (ans.source or "").strip().lower()
             has_value = bool((ans.answer_value or "").strip())
-            is_allowed_scraped = src in scraped_sources and _is_scraped_only_source(src)
+            is_allowed_scraped = _is_scraped_only_source(src) and (
+                src in scraped_sources
+                or any(token in src for token in trusted_source_tokens)
+            )
             is_trusted_location = (
                 ans.indicator_id in trusted_location_indicators
                 and src in trusted_location_sources
@@ -911,6 +928,22 @@ def _run_pipeline_task(
                 except Exception as real_error:
                     _append_job_log(job_id, f"❌ Enhanced real data processing failed: {str(real_error)}")
                     success_real, indicators_processed = False, 0
+
+                # PHASE 2.2: Force questionnaire fill from year-specific extracted evidence.
+                # This is the deterministic pass that maps extracted evidence onto indicator rows.
+                try:
+                    fill_ok, fill_info = _direct_questionnaire_fill_with_timeout(
+                        company_name=company_name,
+                        company_id=company_id,
+                        year=year,
+                        timeout_seconds=420,
+                    )
+                    if fill_ok:
+                        _append_job_log(job_id, f"🧩 Questionnaire fill completed: {fill_info} rows updated")
+                    else:
+                        _append_job_log(job_id, f"⚠️ Questionnaire fill skipped/failed: {fill_info}")
+                except Exception as fill_error:
+                    _append_job_log(job_id, f"❌ Questionnaire fill error: {str(fill_error)[:120]}")
 
                 # PHASE 2.1: Populate latest location indicators from OpenStreetMap
                 try:
