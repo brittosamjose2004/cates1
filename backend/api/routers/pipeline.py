@@ -508,7 +508,8 @@ def _find_local_annual_report_pdfs(company_name: str, year: int) -> list[Path]:
         root / "data" / "annual_reports",
     ]
 
-    found: list[Path] = []
+    exact_year_found: list[Path] = []
+    all_company_pdfs: list[Path] = []
     for base in candidate_roots:
         if not base.exists():
             continue
@@ -527,10 +528,38 @@ def _find_local_annual_report_pdfs(company_name: str, year: int) -> list[Path]:
 
                 for pdf in company_dir.rglob("*.pdf"):
                     p = str(pdf)
+                    all_company_pdfs.append(pdf)
                     if year_s in pdf.name or year_s in p:
-                        found.append(pdf)
+                        exact_year_found.append(pdf)
         except Exception:
             continue
+
+    found = exact_year_found
+
+    # If exact-year files are missing (common when latest annual report is previous FY),
+    # fallback to nearest available report year for the same company.
+    if not found and all_company_pdfs:
+        year_re = re.compile(r"(20\d{2})")
+        with_year: list[tuple[int, Path]] = []
+        without_year: list[Path] = []
+        for pdf in all_company_pdfs:
+            m = year_re.search(str(pdf))
+            if m:
+                with_year.append((int(m.group(1)), pdf))
+            else:
+                without_year.append(pdf)
+
+        if with_year:
+            target_year = int(year)
+            # Prefer nearest <= requested year, else newest available.
+            leq = [pair for pair in with_year if pair[0] <= target_year]
+            if leq:
+                chosen_year = max(y for y, _ in leq)
+            else:
+                chosen_year = max(y for y, _ in with_year)
+            found = [p for y, p in with_year if y == chosen_year]
+        else:
+            found = list(without_year)
 
     # De-duplicate preserving order.
     uniq: list[Path] = []
