@@ -1,0 +1,70 @@
+{
+  "company_id": 44,
+  "company_name": "JSW Steel Limited",
+  "year": 2020,
+  "analysis_date": "2026-03-25T15:16:39.082367",
+  "total_indicators": 5,
+  "total_sources": 2,
+  "source_breakdown": {
+    "company_website": {
+      "type": "scraped",
+      "indicator_count": 2,
+      "indicators": [
+        "IMP-M05-I01",
+        "IMP-M07-I01"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M05-I01",
+          "value": "1.95"
+        },
+        {
+          "indicator": "IMP-M07-I01",
+          "value": "2.21"
+        }
+      ]
+    },
+    "manual_input": {
+      "type": "manual",
+      "indicator_count": 3,
+      "indicators": [
+        "IMP-M05-I01",
+        "IMP-M05-I04",
+        "IMP-M07-I01"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M05-I01",
+          "value": "1.95"
+        },
+        {
+          "indicator": "IMP-M05-I04",
+          "value": "Calculated based on emissions/revenue"
+        },
+        {
+          "indicator": "IMP-M07-I01",
+          "value": "2.21"
+        }
+      ]
+    }
+  },
+  "source_methods": {
+    "comprehensive_extraction": [],
+    "web_scraping": [
+      "company_website"
+    ],
+    "document_upload": [],
+    "manual_entry": [
+      "manual_input"
+    ],
+    "api_collection": [],
+    "unknown": []
+  },
+  "coverage_analysis": {
+    "total_indicators": 5,
+    "scraped_indicators": 2,
+    "manual_indicators": 3,
+    "target_151_coverage": "3.3%",
+    "data_quality": "PARTIAL"
+  }
+}

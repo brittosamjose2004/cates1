@@ -1,0 +1,43 @@
+[2026-03-26 12:33:25] 🚀 Started ESG processing pipeline for company='ASIAN PAINTS (POLYMERS) PRIVATE LIMITED', years=[2026]
+[2026-03-26 12:33:25] 📅 Processing years: [2026]
+[2026-03-26 12:33:25] 🔄 Starting ESG processing for year 2026...
+[2026-03-26 12:33:25] 📂 Collecting real ESG documents from online sources...
+[2026-03-26 12:33:33] ✅ Document collection: 0 documents collected from real sources
+[2026-03-26 12:33:33] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-26 12:33:34] ✅ TARGET 151 INDICATORS: 39/151 found (25.8% coverage) - PARTIAL
+[2026-03-26 12:33:34]    • Modules: 1 complete, 8 partial, 12 empty
+[2026-03-26 12:33:34]    • Missing: 112 indicators (first 3: IMP-M02-I08, IMP-M03-I05, IMP-M03-I06...)
+[2026-03-26 12:33:34] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-26 12:33:34] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-26 12:33:34] 📊 Pipeline sources:
+[2026-03-26 12:33:34]    • Document sources (PDFs, reports)
+[2026-03-26 12:33:34]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-26 12:33:34]    • Online sources (web scraping)
+[2026-03-26 12:34:15] ✅ DYNAMIC PATTERN SOURCES SUCCESS:
+[2026-03-26 12:34:15]    • Total indicators: 39
+[2026-03-26 12:34:15]    • Document sources: 1 indicators
+[2026-03-26 12:34:15]    • Dynamic pattern sources: 0 indicators (WEB-SCRAPED)
+[2026-03-26 12:34:15]    • Online sources: 0 indicators
+[2026-03-26 12:34:15]    • Pattern sources now use REAL company-specific data!
+[2026-03-26 12:34:15] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-26 12:34:17] ✅ Year 2026 completed:
+[2026-03-26 12:34:17]    • Target 151 Indicators: 39/151 found (25.8% coverage)
+[2026-03-26 12:34:17]    • Total Indicators: 131
+[2026-03-26 12:34:17]    • Processed: 131
+[2026-03-26 12:34:17]    • Failed: 0
+[2026-03-26 12:34:17]    • Modules: 17
+[2026-03-26 12:34:17]    • Processing Time: 1.7s
+[2026-03-26 12:34:17] 💾 Automatically saving data sources for 2026...
+[2026-03-26 12:34:17] ✅ Data sources saved: 78 indicators from 3 sources
+[2026-03-26 12:34:17]    • Report saved: ASIAN_PAINTS_(POLYMERS)_PRIVATE_LIMITED_2026_data_sources
+[2026-03-26 12:34:17]    • Coverage: 51.7%
+[2026-03-26 12:34:17] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-26 12:34:17] 📈 Pipeline Summary:
+[2026-03-26 12:34:17]    • Company: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (ID: 14)
+[2026-03-26 12:34:17]    • Years Processed: [2026]
+[2026-03-26 12:34:17]    • Years Failed: []
+[2026-03-26 12:34:17]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-26 12:34:17]    • TARGET 151 Indicators: 39/151 (25.8% coverage with real data)
+[2026-03-26 12:34:17]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-26 12:34:17] 💾 Data sources automatically saved for all processed years
+[2026-03-26 12:34:17] 📁 Company data snapshot exported

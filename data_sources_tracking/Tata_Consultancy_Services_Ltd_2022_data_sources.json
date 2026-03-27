@@ -1,0 +1,33 @@
+{
+  "company_id": 4,
+  "company_name": "Tata Consultancy Services Ltd",
+  "year": 2022,
+  "analysis_date": "2026-03-25T15:16:39.104511",
+  "total_indicators": 0,
+  "total_sources": 1,
+  "source_breakdown": {
+    "yahoo_historical": {
+      "type": "scraped",
+      "indicator_count": 0,
+      "indicators": [],
+      "sample_values": []
+    }
+  },
+  "source_methods": {
+    "comprehensive_extraction": [],
+    "web_scraping": [],
+    "document_upload": [],
+    "manual_entry": [],
+    "api_collection": [],
+    "unknown": [
+      "yahoo_historical"
+    ]
+  },
+  "coverage_analysis": {
+    "total_indicators": 0,
+    "scraped_indicators": 0,
+    "manual_indicators": 0,
+    "target_151_coverage": "0%",
+    "data_quality": "PARTIAL"
+  }
+}

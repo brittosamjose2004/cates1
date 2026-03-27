@@ -1,0 +1,65 @@
+{
+  "company_id": 1,
+  "company_name": "HCL Technologies Ltd",
+  "year": 2022,
+  "analysis_date": "2026-03-25T15:16:39.099785",
+  "total_indicators": 10,
+  "total_sources": 2,
+  "source_breakdown": {
+    "yahoo_historical": {
+      "type": "scraped",
+      "indicator_count": 0,
+      "indicators": [],
+      "sample_values": []
+    },
+    "manual_input": {
+      "type": "manual",
+      "indicator_count": 10,
+      "indicators": [
+        "IMP-M01-I01",
+        "IMP-M01-I03",
+        "IMP-M03-I06",
+        "IMP-M06-I07",
+        "IMP-M14-I03",
+        "IMP-M17-I03",
+        "IMP-M18-I04",
+        "IMP-M20-I01",
+        "IMP-M20-I02",
+        "IMP-M20-I03"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I01",
+          "value": "HCL Technologies Ltd"
+        },
+        {
+          "indicator": "IMP-M01-I03",
+          "value": "7"
+        },
+        {
+          "indicator": "IMP-M03-I06",
+          "value": "Tax expense: ₹34.28B | Effective tax rate: 20.2%"
+        }
+      ]
+    }
+  },
+  "source_methods": {
+    "comprehensive_extraction": [],
+    "web_scraping": [],
+    "document_upload": [],
+    "manual_entry": [
+      "manual_input"
+    ],
+    "api_collection": [],
+    "unknown": [
+      "yahoo_historical"
+    ]
+  },
+  "coverage_analysis": {
+    "total_indicators": 10,
+    "scraped_indicators": 0,
+    "manual_indicators": 10,
+    "target_151_coverage": "6.6%",
+    "data_quality": "PARTIAL"
+  }
+}

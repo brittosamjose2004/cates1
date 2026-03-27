@@ -1,0 +1,32 @@
+[2026-03-26 06:13:50] 🚀 Started ESG processing pipeline for company='Infosys Limited', years=[2024]
+[2026-03-26 06:13:50] 📅 Processing years: [2024]
+[2026-03-26 06:13:50] 🔄 Starting ESG processing for year 2024...
+[2026-03-26 06:13:50] 📂 Collecting real ESG documents from online sources...
+[2026-03-26 06:13:56] ✅ Document collection: 0 documents collected from real sources
+[2026-03-26 06:13:56] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-26 06:13:56] ✅ TARGET 151 INDICATORS: 94/151 found (62.3% coverage) - PARTIAL
+[2026-03-26 06:13:56]    • Modules: 6 complete, 13 partial, 2 empty
+[2026-03-26 06:13:56]    • Missing: 57 indicators (first 3: IMP-M01-I03, IMP-M03-I03, IMP-M03-I04...)
+[2026-03-26 06:13:56] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-26 06:13:56] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-26 06:13:58] ✅ Year 2024 completed:
+[2026-03-26 06:13:58]    • Target 151 Indicators: 94/151 found (62.3% coverage)
+[2026-03-26 06:13:58]    • Total Indicators: 131
+[2026-03-26 06:13:58]    • Processed: 131
+[2026-03-26 06:13:58]    • Failed: 0
+[2026-03-26 06:13:58]    • Modules: 17
+[2026-03-26 06:13:58]    • Processing Time: 1.5s
+[2026-03-26 06:13:58] 💾 Automatically saving data sources for 2024...
+[2026-03-26 06:13:58] ✅ Data sources saved: 184 indicators from 6 sources
+[2026-03-26 06:13:58]    • Report saved: Infosys_Limited_2024_data_sources
+[2026-03-26 06:13:58]    • Coverage: 121.9%
+[2026-03-26 06:13:58] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-26 06:13:58] 📈 Pipeline Summary:
+[2026-03-26 06:13:58]    • Company: Infosys Limited (ID: 46)
+[2026-03-26 06:13:58]    • Years Processed: [2024]
+[2026-03-26 06:13:58]    • Years Failed: []
+[2026-03-26 06:13:58]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-26 06:13:58]    • TARGET 151 Indicators: 94/151 (62.3% coverage with real data)
+[2026-03-26 06:13:58]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-26 06:13:58] 💾 Data sources automatically saved for all processed years
+[2026-03-26 06:13:58] 📁 Company data snapshot exported

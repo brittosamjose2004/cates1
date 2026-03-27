@@ -1,0 +1,32 @@
+[2026-03-25 10:38:52] 🚀 Started ESG processing pipeline for company='BANK OF BARODA', years=[2025]
+[2026-03-25 10:38:52] 📅 Processing years: [2025]
+[2026-03-25 10:38:52] 🔄 Starting ESG processing for year 2025...
+[2026-03-25 10:38:52] 📂 Collecting real ESG documents from online sources...
+[2026-03-25 10:39:14] ✅ Document collection: 0 documents collected from real sources
+[2026-03-25 10:39:14] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-25 10:39:14] ✅ TARGET 151 INDICATORS: 0/151 found (0.0% coverage) - PARTIAL
+[2026-03-25 10:39:14]    • Modules: 0 complete, 0 partial, 21 empty
+[2026-03-25 10:39:14]    • Missing: 151 indicators (first 3: IMP-M01-I01, IMP-M01-I02, IMP-M01-I03...)
+[2026-03-25 10:39:14] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-25 10:39:14] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-25 10:39:15] ✅ Year 2025 completed:
+[2026-03-25 10:39:15]    • Target 151 Indicators: 1/151 found (0.7% coverage)
+[2026-03-25 10:39:15]    • Total Indicators: 131
+[2026-03-25 10:39:15]    • Processed: 131
+[2026-03-25 10:39:15]    • Failed: 0
+[2026-03-25 10:39:15]    • Modules: 17
+[2026-03-25 10:39:15]    • Processing Time: 1.3s
+[2026-03-25 10:39:15] 💾 Automatically saving data sources for 2025...
+[2026-03-25 10:39:15] ✅ Data sources saved: 1 indicators from 1 sources
+[2026-03-25 10:39:15]    • Report saved: BANK_OF_BARODA_2025_data_sources
+[2026-03-25 10:39:15]    • Coverage: 0.7%
+[2026-03-25 10:39:15] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-25 10:39:15] 📈 Pipeline Summary:
+[2026-03-25 10:39:15]    • Company: BANK OF BARODA (ID: 26)
+[2026-03-25 10:39:15]    • Years Processed: [2025]
+[2026-03-25 10:39:15]    • Years Failed: []
+[2026-03-25 10:39:15]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-25 10:39:15]    • TARGET 151 Indicators: 1/151 (0.7% coverage with real data)
+[2026-03-25 10:39:15]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-25 10:39:15] 💾 Data sources automatically saved for all processed years
+[2026-03-25 10:39:15] 📁 Company data snapshot exported

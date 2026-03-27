@@ -1,0 +1,82 @@
+{
+  "HCL Technologies Ltd": {
+    "headquarters": "Noida, India",
+    "latitude": 28.5706333,
+    "longitude": 77.3272147
+  },
+  "Infosys Ltd": {
+    "headquarters": "Bengaluru, India",
+    "latitude": 12.9767936,
+    "longitude": 77.590082
+  },
+  "Tata Consultancy Services Ltd": {
+    "headquarters": "Mumbai, India",
+    "latitude": 19.054999,
+    "longitude": 72.8692035
+  },
+  "Wipro Ltd": {
+    "headquarters": "Bengaluru, India",
+    "latitude": 12.9767936,
+    "longitude": 77.590082
+  },
+  "Bajaj Finance Ltd": {
+    "headquarters": "Pune, India",
+    "latitude": 18.5213738,
+    "longitude": 73.8545071
+  },
+  "Hindustan Unilever Ltd": {
+    "headquarters": "Mumbai, India",
+    "latitude": 19.054999,
+    "longitude": 72.8692035
+  },
+  "Bharti Airtel Ltd": {
+    "headquarters": "New Delhi, India",
+    "latitude": 28.6138954,
+    "longitude": 77.2090057
+  },
+  "Kotak Mahindra Bank Ltd": {
+    "headquarters": "Mumbai, India",
+    "latitude": 19.054999,
+    "longitude": 72.8692035
+  },
+  "Nestle India Ltd": {
+    "headquarters": "Gurugram, India",
+    "latitude": 28.4646148,
+    "longitude": 77.0299194
+  },
+  "NTPC LIMITED": {
+    "headquarters": "New Delhi, India",
+    "latitude": 28.6138954,
+    "longitude": 77.2090057
+  },
+  "GUJARAT GAS LIMITED": {
+    "headquarters": "Gandhinagar, India",
+    "latitude": 23.2232877,
+    "longitude": 72.6492267
+  },
+  "DABUR INDIA LIMITED": {
+    "headquarters": "Ghaziabad, India",
+    "latitude": 28.7749966,
+    "longitude": 77.4586967
+  },
+  "COAL INDIA LIMITED": {
+    "headquarters": "Kolkata, India",
+    "latitude": 22.5726459,
+    "longitude": 88.3638953
+  },
+  "COMPREHENSIVE ESG TEST COMPANY": {
+    "headquarters": "Mumbai, India",
+    "latitude": 19.054999,
+    "longitude": 72.8692035
+  },
+  "JSW Steel Limited": {
+    "headquarters": "Mumbai, Maharashtra, India",
+    "latitude": 19.054999,
+    "longitude": 72.8692035
+  },
+  "Godrej Industries Limited": {
+    "headquarters": "Mumbai, India",
+    "latitude": 19.054999,
+    "longitude": 72.8692035
+  }
+}

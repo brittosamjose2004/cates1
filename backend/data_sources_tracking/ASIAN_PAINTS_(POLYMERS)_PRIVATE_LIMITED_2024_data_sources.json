@@ -1,0 +1,54 @@
+{
+  "company_id": 14,
+  "company_name": "ASIAN PAINTS (POLYMERS) PRIVATE LIMITED",
+  "year": 2024,
+  "analysis_date": "2026-03-26T19:11:02.239954",
+  "total_indicators": 5,
+  "total_sources": 1,
+  "source_breakdown": {
+    "manual_input": {
+      "type": "manual",
+      "indicator_count": 5,
+      "indicators": [
+        "IMP-M05-I04",
+        "IMP-M07-I03",
+        "IMP-M15-I05",
+        "IMP-M16-I02",
+        "IMP-M16-I03"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M05-I04",
+          "value": "Calculated based on emissions/revenue"
+        },
+        {
+          "indicator": "IMP-M07-I03",
+          "value": "Circular economy: Paint can recycling program. Solvent recovery systems installed"
+        },
+        {
+          "indicator": "IMP-M15-I05",
+          "value": "[Paints Industry] Training: , managing incidents, and \npreparing for emergencies......"
+        }
+      ]
+    }
+  },
+  "source_methods": {
+    "comprehensive_extraction": [],
+    "web_scraping": [],
+    "document_upload": [],
+    "manual_entry": [
+      "manual_input"
+    ],
+    "api_collection": [],
+    "unknown": []
+  },
+  "coverage_analysis": {
+    "total_indicators": 5,
+    "scraped_indicators": 0,
+    "manual_indicators": 5,
+    "target_151_coverage": "3.3%",
+    "data_quality": "PARTIAL"
+  },
+  "auto_save_context": "pipeline_run",
+  "auto_save_timestamp": "2026-03-26T19:11:02.240127"
+}

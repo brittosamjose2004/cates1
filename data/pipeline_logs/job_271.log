@@ -1,0 +1,22 @@
+[2026-03-24 21:05:57] 🚀 Started ESG processing pipeline for company='ITC LIMITED', years=[2026]
+[2026-03-24 21:05:57] 📅 Processing years: [2026]
+[2026-03-24 21:05:57] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:05:57] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:05:57] ✅ Complete 151/151 system: 151 indicators filled
+[2026-03-24 21:05:57] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:05:58] ✅ Year 2026 completed:
+[2026-03-24 21:05:58]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:05:58]    • Total Indicators: 131
+[2026-03-24 21:05:58]    • Processed: 131
+[2026-03-24 21:05:58]    • Failed: 0
+[2026-03-24 21:05:58]    • Modules: 17
+[2026-03-24 21:05:58]    • Processing Time: 0.7s
+[2026-03-24 21:05:58] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:05:58] 📈 Pipeline Summary:
+[2026-03-24 21:05:58]    • Company: ITC LIMITED (ID: 30)
+[2026-03-24 21:05:58]    • Years Processed: [2026]
+[2026-03-24 21:05:58]    • Years Failed: []
+[2026-03-24 21:05:58]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:05:58]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:05:58]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:05:58] 📁 Company data snapshot exported

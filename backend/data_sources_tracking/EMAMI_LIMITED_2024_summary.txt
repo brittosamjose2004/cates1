@@ -1,0 +1,31 @@
+DATA SOURCES REPORT
+Company: EMAMI LIMITED (ID: 40)
+Year: 2024
+Analysis Date: 2026-03-27T09:29:27.391724
+============================================================
+
+SUMMARY:
+Total Indicators: 302
+Total Sources: 2
+Target 151 Coverage: 200.0%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+real_pdf_extraction:
+  Type: scraped
+  Indicators: 151
+  Sample Data:
+    IMP-M01-I01: and address of the member along with scanned copy ...
+    IMP-M01-I02: experience, he drives production, factory operatio...
+
+manual_input:
+  Type: manual
+  Indicators: 151
+  Sample Data:
+    IMP-M01-I01: and address of the member along with scanned copy ...
+    IMP-M01-I02: experience, he drives production, factory operatio...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: real_pdf_extraction
+  MANUAL_ENTRY: manual_input

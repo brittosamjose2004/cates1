@@ -1,0 +1,22 @@
+[2026-03-24 21:05:48] 🚀 Started ESG processing pipeline for company='Kotak Mahindra Bank Ltd', years=[2026]
+[2026-03-24 21:05:48] 📅 Processing years: [2026]
+[2026-03-24 21:05:48] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:05:48] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:05:48] ✅ Complete 151/151 system: 151 indicators filled
+[2026-03-24 21:05:48] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:05:49] ✅ Year 2026 completed:
+[2026-03-24 21:05:49]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:05:49]    • Total Indicators: 131
+[2026-03-24 21:05:49]    • Processed: 131
+[2026-03-24 21:05:49]    • Failed: 0
+[2026-03-24 21:05:49]    • Modules: 17
+[2026-03-24 21:05:49]    • Processing Time: 0.7s
+[2026-03-24 21:05:49] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:05:49] 📈 Pipeline Summary:
+[2026-03-24 21:05:49]    • Company: Kotak Mahindra Bank Ltd (ID: 19)
+[2026-03-24 21:05:49]    • Years Processed: [2026]
+[2026-03-24 21:05:49]    • Years Failed: []
+[2026-03-24 21:05:49]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:05:49]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:05:49]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:05:49] 📁 Company data snapshot exported

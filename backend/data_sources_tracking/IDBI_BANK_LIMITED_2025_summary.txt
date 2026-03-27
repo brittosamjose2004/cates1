@@ -1,0 +1,23 @@
+DATA SOURCES REPORT
+Company: IDBI BANK LIMITED (ID: 27)
+Year: 2025
+Analysis Date: 2026-03-27T09:55:03.373910
+============================================================
+
+SUMMARY:
+Total Indicators: 151
+Total Sources: 1
+Target 151 Coverage: 100.0%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+real_pdf_extraction:
+  Type: scraped
+  Indicators: 151
+  Sample Data:
+    IMP-M01-I01: L65190MH2004G01148838...
+    IMP-M01-I02: Data Security Standard...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: real_pdf_extraction

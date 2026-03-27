@@ -1,0 +1,43 @@
+[2026-03-27 07:07:45] 🚀 Started ESG processing pipeline for company='NHPC LIMITED', years=[2024]
+[2026-03-27 07:07:45] 📅 Processing years: [2024]
+[2026-03-27 07:07:45] 🔄 Starting ESG processing for year 2024...
+[2026-03-27 07:07:45] 📂 Collecting real ESG documents from online sources...
+[2026-03-27 07:07:45] 📁 Found 1 local report PDF(s) for NHPC LIMITED 2024
+[2026-03-27 07:08:19] ✅ Document collection: 154 documents collected from real sources
+[2026-03-27 07:08:19] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-27 07:08:19] ✅ TARGET 151 INDICATORS: 153/153 found (100.0% coverage) - EXCELLENT
+[2026-03-27 07:08:19]    • Modules: 22 complete, 0 partial, 0 empty
+[2026-03-27 07:08:19] 🚫 NO SYNTHETIC DATA - Only selected-year comprehensive database, manual input, and documents used
+[2026-03-27 07:08:19] ⚠️ Location indicators skipped (IMP-M22-I01/I02): no usable headquarters address
+[2026-03-27 07:08:19] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-27 07:08:19] 📊 Pipeline sources:
+[2026-03-27 07:08:19]    • Document sources (PDFs, reports)
+[2026-03-27 07:08:19]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-27 07:08:19]    • Online sources (web scraping)
+[2026-03-27 07:32:35] ❌ Comprehensive pipeline failed: (sqlite3.IntegrityError) UNIQUE constraint failed: answers.company_id, answers.year, answers.indicator_id
+[SQL: INSERT INTO answers (session_id, company_id, year, indicator_id, module, indicator_name, question_text, answer_value, answer_unit, response_format, source, confidence, notes, is_verified, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?) RETURNING id]
+[parameters: (209, 49, 2024, 'IMP-M01-I01', None, None, None, 'or e', None, None, 'real_pdf_extraction', 0.95, 'Extracted from comprehensive source: real_pdf_extraction for year 2024', 0, '2026-03-27 13:02:35.205647', '2026-03-27 13:02:35.205648')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-03-27 07:32:35] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-27 07:32:36] ✅ Year 2024 completed:
+[2026-03-27 07:32:36]    • Target 151 Indicators: 153/153 found (100.0% coverage)
+[2026-03-27 07:32:36]    • Total Indicators: 131
+[2026-03-27 07:32:36]    • Processed: 131
+[2026-03-27 07:32:36]    • Failed: 0
+[2026-03-27 07:32:36]    • Modules: 17
+[2026-03-27 07:32:36]    • Processing Time: 1.6s
+[2026-03-27 07:32:36] 💾 Automatically saving data sources for 2024...
+[2026-03-27 07:32:36] ✅ Data sources saved: 284 indicators from 2 sources
+[2026-03-27 07:32:36]    • Report saved: NHPC_LIMITED_2024_data_sources
+[2026-03-27 07:32:36]    • Coverage: 188.1%
+[2026-03-27 07:32:36] 🔒 Scraped-only enforcement (year 2024): kept=131, cleared=0, total=131
+[2026-03-27 07:32:36] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-27 07:32:36] 📈 Pipeline Summary:
+[2026-03-27 07:32:36]    • Company: NHPC LIMITED (ID: 49)
+[2026-03-27 07:32:36]    • Years Processed: [2024]
+[2026-03-27 07:32:36]    • Years Failed: []
+[2026-03-27 07:32:36]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-27 07:32:36]    • TARGET 151 Indicators: 153/153 (100.0% coverage with real data)
+[2026-03-27 07:32:36]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-27 07:32:36] 💾 Data sources automatically saved for all processed years
+[2026-03-27 07:32:36] 📁 Company data snapshot exported

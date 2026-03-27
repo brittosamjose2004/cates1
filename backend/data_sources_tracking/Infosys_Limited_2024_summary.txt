@@ -1,0 +1,75 @@
+DATA SOURCES REPORT
+Company: Infosys Limited (ID: 46)
+Year: 2024
+Analysis Date: 2026-03-26T13:08:24.179661
+============================================================
+
+SUMMARY:
+Total Indicators: 191
+Total Sources: 8
+Target 151 Coverage: 126.5%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+document_mining_patterns:
+  Type: scraped
+  Indicators: 4
+  Sample Data:
+    IMP-M01-I08: Board composition with independent directors...
+    IMP-M02-I09: Anti-corruption and bribery policies...
+
+dynamic_it_industry_patterns:
+  Type: scraped
+  Indicators: 3
+  Sample Data:
+    IMP-M01-I04: Listed on NSE (INFY) and BSE (500209) as of 2024...
+    IMP-M01-I05: IT services and consulting company - verified 2024...
+
+dynamic_sustainability_patterns:
+  Type: scraped
+  Indicators: 2
+  Sample Data:
+    IMP-M05-I05: Science-based targets initiative commitment - vali...
+    IMP-M05-I06: Renewable energy initiatives: renewable energy - 2...
+
+financial_sector_patterns:
+  Type: scraped
+  Indicators: 27
+  Sample Data:
+    IMP-M03-I08: Quarterly revenue growth reported...
+    IMP-M03-I09: Operating margin maintained above 20%...
+
+it_industry_patterns:
+  Type: scraped
+  Indicators: 39
+  Sample Data:
+    IMP-M01-I04: Listed on NSE and BSE stock exchanges...
+    IMP-M01-I05: IT services and consulting business model...
+
+real_pdf_extraction:
+  Type: scraped
+  Indicators: 6
+  Sample Data:
+    IMP-M01-I01: of the report Website link...
+    IMP-M01-I02: The Company did not undergo any change in the natu...
+
+sustainability_patterns:
+  Type: scraped
+  Indicators: 27
+  Sample Data:
+    IMP-M05-I04: Carbon neutrality targets set for 2030...
+    IMP-M05-I05: Science-based emission reduction targets...
+
+manual_input:
+  Type: manual
+  Indicators: 83
+  Sample Data:
+    IMP-M01-I01: of the report Website link...
+    IMP-M01-I02: The Company did not undergo any change in the natu...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: real_pdf_extraction
+  DOCUMENT_UPLOAD: document_mining_patterns
+  MANUAL_ENTRY: manual_input
+  UNKNOWN: dynamic_it_industry_patterns, dynamic_sustainability_patterns, financial_sector_patterns, it_industry_patterns, sustainability_patterns

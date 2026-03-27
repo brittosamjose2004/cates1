@@ -1,0 +1,43 @@
+[2026-03-26 07:38:09] 🚀 Started ESG processing pipeline for company='Infosys Limited', years=[2024]
+[2026-03-26 07:38:09] 📅 Processing years: [2024]
+[2026-03-26 07:38:09] 🔄 Starting ESG processing for year 2024...
+[2026-03-26 07:38:09] 📂 Collecting real ESG documents from online sources...
+[2026-03-26 07:38:14] ✅ Document collection: 0 documents collected from real sources
+[2026-03-26 07:38:14] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-26 07:38:14] ✅ TARGET 151 INDICATORS: 94/151 found (62.3% coverage) - PARTIAL
+[2026-03-26 07:38:14]    • Modules: 6 complete, 13 partial, 2 empty
+[2026-03-26 07:38:14]    • Missing: 57 indicators (first 3: IMP-M01-I03, IMP-M03-I03, IMP-M03-I04...)
+[2026-03-26 07:38:14] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-26 07:38:14] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-26 07:38:14] 📊 Pipeline sources:
+[2026-03-26 07:38:14]    • Document sources (PDFs, reports)
+[2026-03-26 07:38:14]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-26 07:38:14]    • Online sources (web scraping)
+[2026-03-26 07:38:23] ✅ DYNAMIC PATTERN SOURCES SUCCESS:
+[2026-03-26 07:38:23]    • Total indicators: 15
+[2026-03-26 07:38:23]    • Document sources: 10 indicators
+[2026-03-26 07:38:23]    • Dynamic pattern sources: 5 indicators (WEB-SCRAPED)
+[2026-03-26 07:38:23]    • Online sources: 0 indicators
+[2026-03-26 07:38:23]    • Pattern sources now use REAL company-specific data!
+[2026-03-26 07:38:23] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-26 07:38:24] ✅ Year 2024 completed:
+[2026-03-26 07:38:24]    • Target 151 Indicators: 94/151 found (62.3% coverage)
+[2026-03-26 07:38:24]    • Total Indicators: 131
+[2026-03-26 07:38:24]    • Processed: 131
+[2026-03-26 07:38:24]    • Failed: 0
+[2026-03-26 07:38:24]    • Modules: 17
+[2026-03-26 07:38:24]    • Processing Time: 0.7s
+[2026-03-26 07:38:24] 💾 Automatically saving data sources for 2024...
+[2026-03-26 07:38:24] ✅ Data sources saved: 191 indicators from 8 sources
+[2026-03-26 07:38:24]    • Report saved: Infosys_Limited_2024_data_sources
+[2026-03-26 07:38:24]    • Coverage: 126.5%
+[2026-03-26 07:38:24] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-26 07:38:24] 📈 Pipeline Summary:
+[2026-03-26 07:38:24]    • Company: Infosys Limited (ID: 46)
+[2026-03-26 07:38:24]    • Years Processed: [2024]
+[2026-03-26 07:38:24]    • Years Failed: []
+[2026-03-26 07:38:24]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-26 07:38:24]    • TARGET 151 Indicators: 94/151 (62.3% coverage with real data)
+[2026-03-26 07:38:24]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-26 07:38:24] 💾 Data sources automatically saved for all processed years
+[2026-03-26 07:38:24] 📁 Company data snapshot exported

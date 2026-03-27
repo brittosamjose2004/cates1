@@ -1,0 +1,22 @@
+[2026-03-24 21:21:21] 🚀 Started ESG processing pipeline for company='MAX HEALTHCARE INSTITUTE LIMITED', years=[2026]
+[2026-03-24 21:21:21] 📅 Processing years: [2026]
+[2026-03-24 21:21:21] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:21:21] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:21:21] ✅ Complete 151/151 system: 151 indicators filled
+[2026-03-24 21:21:21] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:21:21] ✅ Year 2026 completed:
+[2026-03-24 21:21:21]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:21:21]    • Total Indicators: 131
+[2026-03-24 21:21:21]    • Processed: 131
+[2026-03-24 21:21:21]    • Failed: 0
+[2026-03-24 21:21:21]    • Modules: 17
+[2026-03-24 21:21:21]    • Processing Time: 0.3s
+[2026-03-24 21:21:21] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:21:21] 📈 Pipeline Summary:
+[2026-03-24 21:21:21]    • Company: MAX HEALTHCARE INSTITUTE LIMITED (ID: 35)
+[2026-03-24 21:21:21]    • Years Processed: [2026]
+[2026-03-24 21:21:21]    • Years Failed: []
+[2026-03-24 21:21:21]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:21:21]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:21:21]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:21:21] 📁 Company data snapshot exported

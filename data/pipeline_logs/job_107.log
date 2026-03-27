@@ -1,0 +1,19 @@
+[2026-03-24 19:13:24] 🚀 Started ESG processing pipeline for company='TUBE INVESTMENTS OF INDIA LIMITED', years=[2025]
+[2026-03-24 19:13:24] 📅 Processing years: [2025]
+[2026-03-24 19:13:24] 🔄 Starting ESG processing for year 2025...
+[2026-03-24 19:13:24] 📊 Processing 21 ESG modules and 151 indicators...
+[2026-03-24 19:13:25] ✅ Year 2025 completed:
+[2026-03-24 19:13:25]    • Total Indicators: 131
+[2026-03-24 19:13:25]    • Processed: 131
+[2026-03-24 19:13:25]    • Failed: 0
+[2026-03-24 19:13:25]    • Modules: 17
+[2026-03-24 19:13:25]    • Processing Time: 0.7s
+[2026-03-24 19:13:25] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 19:13:25] 📈 Pipeline Summary:
+[2026-03-24 19:13:25]    • Company: TUBE INVESTMENTS OF INDIA LIMITED (ID: 38)
+[2026-03-24 19:13:25]    • Years Processed: [2025]
+[2026-03-24 19:13:25]    • Years Failed: []
+[2026-03-24 19:13:25]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 19:13:25]    • Total Indicators: 151
+[2026-03-24 19:13:25]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 19:13:25] 📁 Company data snapshot exported

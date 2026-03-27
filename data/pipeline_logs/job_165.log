@@ -1,0 +1,22 @@
+[2026-03-24 21:02:08] 🚀 Started ESG processing pipeline for company='Tata Consultancy Services Ltd', years=[2026]
+[2026-03-24 21:02:08] 📅 Processing years: [2026]
+[2026-03-24 21:02:08] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:02:08] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:02:08] ✅ Complete 151/151 system: 0 indicators filled
+[2026-03-24 21:02:08] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:02:09] ✅ Year 2026 completed:
+[2026-03-24 21:02:09]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:02:09]    • Total Indicators: 131
+[2026-03-24 21:02:09]    • Processed: 131
+[2026-03-24 21:02:09]    • Failed: 0
+[2026-03-24 21:02:09]    • Modules: 17
+[2026-03-24 21:02:09]    • Processing Time: 0.8s
+[2026-03-24 21:02:09] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:02:09] 📈 Pipeline Summary:
+[2026-03-24 21:02:09]    • Company: Tata Consultancy Services Ltd (ID: 4)
+[2026-03-24 21:02:09]    • Years Processed: [2026]
+[2026-03-24 21:02:09]    • Years Failed: []
+[2026-03-24 21:02:09]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:02:09]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:02:09]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:02:09] 📁 Company data snapshot exported

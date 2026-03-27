@@ -1,0 +1,37 @@
+DATA SOURCES REPORT
+Company: BANK OF BARODA (ID: 26)
+Year: 2024
+Analysis Date: 2026-03-26T13:36:22.941897
+============================================================
+
+SUMMARY:
+Total Indicators: 7
+Total Sources: 3
+Target 151 Coverage: 4.6%
+Data Quality: PARTIAL
+
+SOURCES BREAKDOWN:
+
+dynamic_it_industry_patterns:
+  Type: scraped
+  Indicators: 1
+  Sample Data:
+    IMP-M19-I03: AI initiatives: artificial intelligence, automatio...
+
+dynamic_sustainability_patterns:
+  Type: scraped
+  Indicators: 2
+  Sample Data:
+    IMP-M05-I05: Science-based targets initiative commitment - vali...
+    IMP-M05-I06: Renewable energy initiatives: renewable energy - 2...
+
+manual_input:
+  Type: manual
+  Indicators: 4
+  Sample Data:
+    IMP-M05-I04: Calculated based on emissions/revenue...
+    IMP-M05-I05: Science-based targets initiative commitment - vali...
+
+SOURCE METHODS:
+  MANUAL_ENTRY: manual_input
+  UNKNOWN: dynamic_it_industry_patterns, dynamic_sustainability_patterns

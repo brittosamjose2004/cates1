@@ -1,0 +1,23 @@
+DATA SOURCES REPORT
+Company: Infosys Limited (ID: 46)
+Year: 2024
+Analysis Date: 2026-03-26T10:30:05.080562
+============================================================
+
+SUMMARY:
+Total Indicators: 6
+Total Sources: 1
+Target 151 Coverage: 4.0%
+Data Quality: PARTIAL
+
+SOURCES BREAKDOWN:
+
+real_pdf_extraction:
+  Type: scraped
+  Indicators: 6
+  Sample Data:
+    IMP-M01-I01: of the report Website link...
+    IMP-M01-I02: The Company did not undergo any change in the natu...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: real_pdf_extraction

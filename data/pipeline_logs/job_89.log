@@ -1,0 +1,6 @@
+[2026-03-24 18:00:42] Started pipeline for company='TATA CHEMICALS LIMITED', years=[2025], all_years=False
+[2026-03-24 18:00:42] Running command: E:\programs\python\python314\python.exe -u F:\impactree cates\cates-main\run_all.py --batch --skip-questionnaire --companies TATA CHEMICALS LIMITED --year 2025 --years 2025 --nse-symbol TATACHEM --company-id 33
+[2026-03-24 18:00:42] run_all timeout budget: 900s
+[2026-03-24 18:00:57] Fetch step completed; moving to scoring/fill step
+[2026-03-24 18:04:05] Direct questionnaire fill completed for year=2025; rows=51; coverage=151; unavailable_created=0
+[2026-03-24 18:04:05] Pipeline completed successfully

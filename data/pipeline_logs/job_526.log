@@ -1,0 +1,31 @@
+[2026-03-25 10:15:31] 🚀 Started ESG processing pipeline for company='ASIAN PAINTS (POLYMERS) PRIVATE LIMITED', years=[2023]
+[2026-03-25 10:15:31] 📅 Processing years: [2023]
+[2026-03-25 10:15:31] 🔄 Starting ESG processing for year 2023...
+[2026-03-25 10:15:31] 📂 Collecting real ESG documents from online sources...
+[2026-03-25 10:19:09] ✅ Document collection: 0 documents collected from real sources
+[2026-03-25 10:19:09] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-25 10:19:09] ✅ TARGET 151 INDICATORS: 151/151 found (100.0% coverage) - EXCELLENT
+[2026-03-25 10:19:09]    • Modules: 21 complete, 0 partial, 0 empty
+[2026-03-25 10:19:09] 🚫 NO SYNTHETIC DATA - Only comprehensive database, manual input, documents, and historical data used
+[2026-03-25 10:19:09] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-25 10:19:10] ✅ Year 2023 completed:
+[2026-03-25 10:19:10]    • Target 151 Indicators: 151/151 found (100.0% coverage)
+[2026-03-25 10:19:10]    • Total Indicators: 131
+[2026-03-25 10:19:10]    • Processed: 131
+[2026-03-25 10:19:10]    • Failed: 0
+[2026-03-25 10:19:10]    • Modules: 17
+[2026-03-25 10:19:10]    • Processing Time: 0.4s
+[2026-03-25 10:19:10] 💾 Automatically saving data sources for 2023...
+[2026-03-25 10:19:10] ✅ Data sources saved: 151 indicators from 1 sources
+[2026-03-25 10:19:10]    • Report saved: ASIAN_PAINTS_(POLYMERS)_PRIVATE_LIMITED_2023_data_sources
+[2026-03-25 10:19:10]    • Coverage: 100.0%
+[2026-03-25 10:19:10] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-25 10:19:10] 📈 Pipeline Summary:
+[2026-03-25 10:19:10]    • Company: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (ID: 14)
+[2026-03-25 10:19:10]    • Years Processed: [2023]
+[2026-03-25 10:19:10]    • Years Failed: []
+[2026-03-25 10:19:10]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-25 10:19:10]    • TARGET 151 Indicators: 151/151 (100.0% coverage with real data)
+[2026-03-25 10:19:10]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-25 10:19:10] 💾 Data sources automatically saved for all processed years
+[2026-03-25 10:19:10] 📁 Company data snapshot exported

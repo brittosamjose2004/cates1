@@ -1,0 +1,40 @@
+DATA SOURCES REPORT
+Company: HCL Technologies Ltd (ID: 1)
+Year: 2025
+Analysis Date: 2026-03-25T15:23:47.424020
+============================================================
+
+SUMMARY:
+Total Indicators: 151
+Total Sources: 4
+Target 151 Coverage: 100.0%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+brsr_pdf:
+  Type: scraped
+  Indicators: 0
+  Sample Data:
+
+yahoo:
+  Type: scraped
+  Indicators: 0
+  Sample Data:
+
+yahoo_historical:
+  Type: scraped
+  Indicators: 0
+  Sample Data:
+
+manual_input:
+  Type: manual
+  Indicators: 151
+  Sample Data:
+    IMP-M01-I01: HCL Technologies Ltd | CIN: LTE123PLC2010 | Founde...
+    IMP-M01-I02: Primary business activities: Technology operations...
+
+SOURCE METHODS:
+  DOCUMENT_UPLOAD: brsr_pdf
+  MANUAL_ENTRY: manual_input
+  UNKNOWN: yahoo, yahoo_historical

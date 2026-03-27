@@ -1,0 +1,38 @@
+DATA SOURCES REPORT
+Company: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (ID: 14)
+Year: 2026
+Analysis Date: 2026-03-26T18:04:17.182307
+============================================================
+
+SUMMARY:
+Total Indicators: 78
+Total Sources: 3
+Target 151 Coverage: 51.7%
+Data Quality: PARTIAL
+
+SOURCES BREAKDOWN:
+
+brsr_annual_report_social_paints_adapted:
+  Type: scraped
+  Indicators: 1
+  Sample Data:
+    IMP-M15-I05: [Paints Industry] Training: , managing incidents, ...
+
+comprehensive_company_research_paints:
+  Type: scraped
+  Indicators: 38
+  Sample Data:
+    IMP-M01-I01: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (CIN: U242...
+    IMP-M01-I02: Paint Manufacturing and Chemicals - Decorative pai...
+
+manual_input:
+  Type: manual
+  Indicators: 39
+  Sample Data:
+    IMP-M01-I01: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (CIN: U242...
+    IMP-M01-I02: Paint Manufacturing and Chemicals - Decorative pai...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: comprehensive_company_research_paints
+  MANUAL_ENTRY: manual_input
+  UNKNOWN: brsr_annual_report_social_paints_adapted

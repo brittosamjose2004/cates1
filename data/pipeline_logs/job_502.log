@@ -1,0 +1,25 @@
+[2026-03-25 06:27:57] 🚀 Started ESG processing pipeline for company='JSW Steel Limited', years=[2023]
+[2026-03-25 06:27:57] 📅 Processing years: [2023]
+[2026-03-25 06:27:57] 🔄 Starting ESG processing for year 2023...
+[2026-03-25 06:27:57] 📂 Collecting real ESG documents from online sources...
+[2026-03-25 06:27:57] ✅ Document collection: 0 documents collected from real sources
+[2026-03-25 06:27:57] 📊 Processing 151 ESG indicators with REAL DATA ONLY...
+[2026-03-25 06:27:57] ✅ Real Data Processing: 0/151 indicators processed with authentic data
+[2026-03-25 06:27:57] 🚫 NO SYNTHETIC DATA - Only real documents, manual input, and historical data used
+[2026-03-25 06:27:57] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-25 06:27:58] ✅ Year 2023 completed:
+[2026-03-25 06:27:58]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-25 06:27:58]    • Total Indicators: 131
+[2026-03-25 06:27:58]    • Processed: 131
+[2026-03-25 06:27:58]    • Failed: 0
+[2026-03-25 06:27:58]    • Modules: 17
+[2026-03-25 06:27:58]    • Processing Time: 1.6s
+[2026-03-25 06:27:58] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-25 06:27:58] 📈 Pipeline Summary:
+[2026-03-25 06:27:58]    • Company: JSW Steel Limited (ID: 44)
+[2026-03-25 06:27:58]    • Years Processed: [2023]
+[2026-03-25 06:27:58]    • Years Failed: []
+[2026-03-25 06:27:58]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-25 06:27:58]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-25 06:27:58]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-25 06:27:58] 📁 Company data snapshot exported

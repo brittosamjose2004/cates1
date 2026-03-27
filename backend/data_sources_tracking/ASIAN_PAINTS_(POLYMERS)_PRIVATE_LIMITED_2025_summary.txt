@@ -1,0 +1,23 @@
+DATA SOURCES REPORT
+Company: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (ID: 14)
+Year: 2025
+Analysis Date: 2026-03-26T18:11:31.265104
+============================================================
+
+SUMMARY:
+Total Indicators: 5
+Total Sources: 1
+Target 151 Coverage: 3.3%
+Data Quality: PARTIAL
+
+SOURCES BREAKDOWN:
+
+manual_input:
+  Type: manual
+  Indicators: 5
+  Sample Data:
+    IMP-M05-I04: Calculated based on emissions/revenue...
+    IMP-M07-I03: Circular economy: Paint can recycling program. Sol...
+
+SOURCE METHODS:
+  MANUAL_ENTRY: manual_input

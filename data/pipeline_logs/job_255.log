@@ -1,0 +1,22 @@
+[2026-03-24 21:05:44] 🚀 Started ESG processing pipeline for company='ASIAN PAINTS (POLYMERS) PRIVATE LIMITED', years=[2026]
+[2026-03-24 21:05:44] 📅 Processing years: [2026]
+[2026-03-24 21:05:44] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:05:44] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:05:44] ✅ Complete 151/151 system: 151 indicators filled
+[2026-03-24 21:05:44] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:05:45] ✅ Year 2026 completed:
+[2026-03-24 21:05:45]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:05:45]    • Total Indicators: 131
+[2026-03-24 21:05:45]    • Processed: 131
+[2026-03-24 21:05:45]    • Failed: 0
+[2026-03-24 21:05:45]    • Modules: 17
+[2026-03-24 21:05:45]    • Processing Time: 0.8s
+[2026-03-24 21:05:45] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:05:45] 📈 Pipeline Summary:
+[2026-03-24 21:05:45]    • Company: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (ID: 14)
+[2026-03-24 21:05:45]    • Years Processed: [2026]
+[2026-03-24 21:05:45]    • Years Failed: []
+[2026-03-24 21:05:45]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:05:45]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:05:45]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:05:45] 📁 Company data snapshot exported

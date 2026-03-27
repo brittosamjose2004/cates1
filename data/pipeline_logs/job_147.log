@@ -1,0 +1,19 @@
+[2026-03-24 19:36:17] 🚀 Started ESG processing pipeline for company='Infosys Ltd', years=[2024]
+[2026-03-24 19:36:17] 📅 Processing years: [2024]
+[2026-03-24 19:36:17] 🔄 Starting ESG processing for year 2024...
+[2026-03-24 19:36:17] 📊 Processing 21 ESG modules and 151 indicators...
+[2026-03-24 19:36:18] ✅ Year 2024 completed:
+[2026-03-24 19:36:18]    • Total Indicators: 131
+[2026-03-24 19:36:18]    • Processed: 131
+[2026-03-24 19:36:18]    • Failed: 0
+[2026-03-24 19:36:18]    • Modules: 17
+[2026-03-24 19:36:18]    • Processing Time: 1.8s
+[2026-03-24 19:36:18] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 19:36:18] 📈 Pipeline Summary:
+[2026-03-24 19:36:18]    • Company: Infosys Ltd (ID: 2)
+[2026-03-24 19:36:18]    • Years Processed: [2024]
+[2026-03-24 19:36:18]    • Years Failed: []
+[2026-03-24 19:36:18]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 19:36:18]    • Total Indicators: 151
+[2026-03-24 19:36:18]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 19:36:19] 📁 Company data snapshot exported

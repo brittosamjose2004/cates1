@@ -1,0 +1,42 @@
+[2026-03-27 03:48:40] 🚀 Started ESG processing pipeline for company='EMAMI LIMITED', years=[2024]
+[2026-03-27 03:48:40] 📅 Processing years: [2024]
+[2026-03-27 03:48:40] 🔄 Starting ESG processing for year 2024...
+[2026-03-27 03:48:40] 📂 Collecting real ESG documents from online sources...
+[2026-03-27 03:48:47] ✅ Document collection: 0 documents collected from real sources
+[2026-03-27 03:48:47] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-27 03:48:47] ✅ TARGET 151 INDICATORS: 1/151 found (0.7% coverage) - PARTIAL
+[2026-03-27 03:48:47]    • Modules: 0 complete, 1 partial, 20 empty
+[2026-03-27 03:48:47]    • Missing: 150 indicators (first 3: IMP-M01-I01, IMP-M01-I02, IMP-M01-I03...)
+[2026-03-27 03:48:47] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-27 03:48:47] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-27 03:48:47] 📊 Pipeline sources:
+[2026-03-27 03:48:47]    • Document sources (PDFs, reports)
+[2026-03-27 03:48:47]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-27 03:48:47]    • Online sources (web scraping)
+[2026-03-27 03:59:26] ❌ Comprehensive pipeline failed: (sqlite3.IntegrityError) UNIQUE constraint failed: questionnaire_sessions.company_id, questionnaire_sessions.year, questionnaire_sessions.standard
+[SQL: INSERT INTO questionnaire_sessions (company_id, year, standard, status, total_questions, answered_questions, created_at, updated_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?)]
+[parameters: (40, 2024, 'ALL', 'completed', 0, 0, '2026-03-27 09:29:26.086361', '2026-03-27 09:29:26.086364')]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-03-27 03:59:26] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-27 03:59:27] ✅ Year 2024 completed:
+[2026-03-27 03:59:27]    • Target 151 Indicators: 151/151 found (100.0% coverage)
+[2026-03-27 03:59:27]    • Total Indicators: 131
+[2026-03-27 03:59:27]    • Processed: 131
+[2026-03-27 03:59:27]    • Failed: 0
+[2026-03-27 03:59:27]    • Modules: 17
+[2026-03-27 03:59:27]    • Processing Time: 1.2s
+[2026-03-27 03:59:27] 💾 Automatically saving data sources for 2024...
+[2026-03-27 03:59:27] ✅ Data sources saved: 302 indicators from 2 sources
+[2026-03-27 03:59:27]    • Report saved: EMAMI_LIMITED_2024_data_sources
+[2026-03-27 03:59:27]    • Coverage: 200.0%
+[2026-03-27 03:59:27] 🔒 Scraped-only enforcement (year 2024): kept=131, cleared=20, total=151
+[2026-03-27 03:59:27] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-27 03:59:27] 📈 Pipeline Summary:
+[2026-03-27 03:59:27]    • Company: EMAMI LIMITED (ID: 40)
+[2026-03-27 03:59:27]    • Years Processed: [2024]
+[2026-03-27 03:59:27]    • Years Failed: []
+[2026-03-27 03:59:27]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-27 03:59:27]    • TARGET 151 Indicators: 151/151 (100.0% coverage with real data)
+[2026-03-27 03:59:27]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-27 03:59:27] 💾 Data sources automatically saved for all processed years
+[2026-03-27 03:59:27] 📁 Company data snapshot exported

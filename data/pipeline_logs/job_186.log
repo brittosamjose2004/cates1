@@ -1,0 +1,22 @@
+[2026-03-24 21:02:24] 🚀 Started ESG processing pipeline for company='APOLLO HOSPITALS ENTERPRISE LIMITED', years=[2026]
+[2026-03-24 21:02:24] 📅 Processing years: [2026]
+[2026-03-24 21:02:24] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:02:24] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:02:24] ✅ Complete 151/151 system: 0 indicators filled
+[2026-03-24 21:02:24] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:02:25] ✅ Year 2026 completed:
+[2026-03-24 21:02:25]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:02:25]    • Total Indicators: 131
+[2026-03-24 21:02:25]    • Processed: 131
+[2026-03-24 21:02:25]    • Failed: 0
+[2026-03-24 21:02:25]    • Modules: 17
+[2026-03-24 21:02:25]    • Processing Time: 0.7s
+[2026-03-24 21:02:25] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:02:25] 📈 Pipeline Summary:
+[2026-03-24 21:02:25]    • Company: APOLLO HOSPITALS ENTERPRISE LIMITED (ID: 25)
+[2026-03-24 21:02:25]    • Years Processed: [2026]
+[2026-03-24 21:02:25]    • Years Failed: []
+[2026-03-24 21:02:25]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:02:25]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:02:25]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:02:25] 📁 Company data snapshot exported

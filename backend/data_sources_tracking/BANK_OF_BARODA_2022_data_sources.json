@@ -1,0 +1,83 @@
+{
+  "company_id": 26,
+  "company_name": "BANK OF BARODA",
+  "year": 2022,
+  "analysis_date": "2026-03-26T15:32:27.506402",
+  "total_indicators": 12,
+  "total_sources": 2,
+  "source_breakdown": {
+    "website_comprehensive_enhanced": {
+      "type": "scraped",
+      "indicator_count": 6,
+      "indicators": [
+        "IMP-M01-I04",
+        "IMP-M01-I05",
+        "IMP-M05-I04",
+        "IMP-M11-I01",
+        "IMP-M15-I01",
+        "IMP-M15-I03"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I04",
+          "value": "Information found on official website"
+        },
+        {
+          "indicator": "IMP-M01-I05",
+          "value": "Information found on official website"
+        },
+        {
+          "indicator": "IMP-M05-I04",
+          "value": "Information found on official website"
+        }
+      ]
+    },
+    "manual_input": {
+      "type": "manual",
+      "indicator_count": 6,
+      "indicators": [
+        "IMP-M01-I04",
+        "IMP-M01-I05",
+        "IMP-M05-I04",
+        "IMP-M11-I01",
+        "IMP-M15-I01",
+        "IMP-M15-I03"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I04",
+          "value": "Information found on official website"
+        },
+        {
+          "indicator": "IMP-M01-I05",
+          "value": "Information found on official website"
+        },
+        {
+          "indicator": "IMP-M05-I04",
+          "value": "Information found on official website"
+        }
+      ]
+    }
+  },
+  "source_methods": {
+    "comprehensive_extraction": [
+      "website_comprehensive_enhanced"
+    ],
+    "web_scraping": [],
+    "document_upload": [],
+    "manual_entry": [
+      "manual_input"
+    ],
+    "api_collection": [],
+    "unknown": []
+  },
+  "coverage_analysis": {
+    "total_indicators": 12,
+    "scraped_indicators": 6,
+    "manual_indicators": 6,
+    "target_151_coverage": "7.9%",
+    "data_quality": "PARTIAL"
+  },
+  "auto_save_context": "pipeline_run",
+  "auto_save_timestamp": "2026-03-26T15:32:27.506541"
+}

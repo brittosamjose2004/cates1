@@ -1,0 +1,48 @@
+[2026-03-27 06:19:02] 🚀 Started ESG processing pipeline for company='NHPC LIMITED', years=[2025]
+[2026-03-27 06:19:02] 📅 Processing years: [2025]
+[2026-03-27 06:19:02] 🔄 Starting ESG processing for year 2025...
+[2026-03-27 06:19:02] 📂 Collecting real ESG documents from online sources...
+[2026-03-27 06:19:02] ⬇️ Local reports missing; downloading for NHPC LIMITED 2025 via scrapper_new-main
+[2026-03-27 06:20:13] 🧰 scraper.py exit code: 0
+[2026-03-27 06:20:13] 🧾 scraper stderr: E:\programs\python\python314\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.3) or chardet (7.3.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+[2026-03-27 06:20:13] 📁 Local reports after download: 1 PDF(s)
+[2026-03-27 06:20:48] ✅ Document collection: 154 documents collected from real sources
+[2026-03-27 06:20:48] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-27 06:20:48] ✅ TARGET 151 INDICATORS: 153/153 found (100.0% coverage) - EXCELLENT
+[2026-03-27 06:20:48]    • Modules: 22 complete, 0 partial, 0 empty
+[2026-03-27 06:20:48] 🚫 NO SYNTHETIC DATA - Only selected-year comprehensive database, manual input, and documents used
+[2026-03-27 06:20:48] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-27 06:20:48] 📊 Pipeline sources:
+[2026-03-27 06:20:48]    • Document sources (PDFs, reports)
+[2026-03-27 06:20:48]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-27 06:20:48]    • Online sources (web scraping)
+[2026-03-27 06:47:35] ✅ DYNAMIC PATTERN SOURCES SUCCESS:
+[2026-03-27 06:47:35]    • Total indicators: 153
+[2026-03-27 06:47:35]    • Document sources: 153 indicators
+[2026-03-27 06:47:35]    • Dynamic pattern sources: 0 indicators (WEB-SCRAPED)
+[2026-03-27 06:47:35]    • Online sources: 0 indicators
+[2026-03-27 06:47:35]    • Pattern sources now use REAL company-specific data!
+[2026-03-27 06:47:35] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-27 06:47:37] ✅ Year 2025 completed:
+[2026-03-27 06:47:37]    • Target 151 Indicators: 153/153 found (100.0% coverage)
+[2026-03-27 06:47:37]    • Total Indicators: 131
+[2026-03-27 06:47:37]    • Processed: 131
+[2026-03-27 06:47:37]    • Failed: 0
+[2026-03-27 06:47:37]    • Modules: 17
+[2026-03-27 06:47:37]    • Processing Time: 1.9s
+[2026-03-27 06:47:37] 💾 Automatically saving data sources for 2025...
+[2026-03-27 06:47:37] ✅ Data sources saved: 306 indicators from 2 sources
+[2026-03-27 06:47:37]    • Report saved: NHPC_LIMITED_2025_data_sources
+[2026-03-27 06:47:37]    • Coverage: 202.6%
+[2026-03-27 06:47:37] 🔒 Scraped-only enforcement (year 2025): kept=153, cleared=0, total=153
+[2026-03-27 06:47:37] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-27 06:47:37] 📈 Pipeline Summary:
+[2026-03-27 06:47:37]    • Company: NHPC LIMITED (ID: 49)
+[2026-03-27 06:47:37]    • Years Processed: [2025]
+[2026-03-27 06:47:37]    • Years Failed: []
+[2026-03-27 06:47:37]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-27 06:47:37]    • TARGET 151 Indicators: 153/153 (100.0% coverage with real data)
+[2026-03-27 06:47:37]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-27 06:47:37] 💾 Data sources automatically saved for all processed years
+[2026-03-27 06:47:37] 📁 Company data snapshot exported

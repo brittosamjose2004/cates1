@@ -1,0 +1,33 @@
+DATA SOURCES REPORT
+Company: NHPC LIMITED (ID: 49)
+Year: 2024
+Analysis Date: 2026-03-27T13:02:36.890014
+============================================================
+
+SUMMARY:
+Total Indicators: 284
+Total Sources: 2
+Target 151 Coverage: 188.1%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+real_pdf_extraction:
+  Type: scraped
+  Indicators: 153
+  Sample Data:
+    IMP-M01-I01: or e...
+    IMP-M01-I02: and Agriculture.
+Shri Premkumar Goverthanan is now...
+
+manual_input:
+  Type: manual
+  Indicators: 131
+  Sample Data:
+    IMP-M01-I01: or e...
+    IMP-M01-I02: and Agriculture.
+Shri Premkumar Goverthanan is now...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: real_pdf_extraction
+  MANUAL_ENTRY: manual_input

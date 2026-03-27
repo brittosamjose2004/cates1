@@ -1,0 +1,31 @@
+DATA SOURCES REPORT
+Company: BANK OF BARODA (ID: 26)
+Year: 2022
+Analysis Date: 2026-03-26T15:32:27.506402
+============================================================
+
+SUMMARY:
+Total Indicators: 12
+Total Sources: 2
+Target 151 Coverage: 7.9%
+Data Quality: PARTIAL
+
+SOURCES BREAKDOWN:
+
+website_comprehensive_enhanced:
+  Type: scraped
+  Indicators: 6
+  Sample Data:
+    IMP-M01-I04: Information found on official website...
+    IMP-M01-I05: Information found on official website...
+
+manual_input:
+  Type: manual
+  Indicators: 6
+  Sample Data:
+    IMP-M01-I04: Information found on official website...
+    IMP-M01-I05: Information found on official website...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: website_comprehensive_enhanced
+  MANUAL_ENTRY: manual_input

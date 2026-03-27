@@ -1,0 +1,43 @@
+[2026-03-26 08:55:06] 🚀 Started ESG processing pipeline for company='BANK OF BARODA', years=[2023]
+[2026-03-26 08:55:06] 📅 Processing years: [2023]
+[2026-03-26 08:55:06] 🔄 Starting ESG processing for year 2023...
+[2026-03-26 08:55:06] 📂 Collecting real ESG documents from online sources...
+[2026-03-26 08:55:12] ✅ Document collection: 0 documents collected from real sources
+[2026-03-26 08:55:12] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-26 08:55:12] ✅ TARGET 151 INDICATORS: 0/151 found (0.0% coverage) - PARTIAL
+[2026-03-26 08:55:12]    • Modules: 0 complete, 0 partial, 21 empty
+[2026-03-26 08:55:12]    • Missing: 151 indicators (first 3: IMP-M01-I01, IMP-M01-I02, IMP-M01-I03...)
+[2026-03-26 08:55:12] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-26 08:55:12] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-26 08:55:12] 📊 Pipeline sources:
+[2026-03-26 08:55:12]    • Document sources (PDFs, reports)
+[2026-03-26 08:55:12]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-26 08:55:12]    • Online sources (web scraping)
+[2026-03-26 08:55:19] ✅ DYNAMIC PATTERN SOURCES SUCCESS:
+[2026-03-26 08:55:19]    • Total indicators: 3
+[2026-03-26 08:55:19]    • Document sources: 0 indicators
+[2026-03-26 08:55:19]    • Dynamic pattern sources: 3 indicators (WEB-SCRAPED)
+[2026-03-26 08:55:19]    • Online sources: 0 indicators
+[2026-03-26 08:55:19]    • Pattern sources now use REAL company-specific data!
+[2026-03-26 08:55:19] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-26 08:55:20] ✅ Year 2023 completed:
+[2026-03-26 08:55:20]    • Target 151 Indicators: 4/151 found (2.6% coverage)
+[2026-03-26 08:55:20]    • Total Indicators: 131
+[2026-03-26 08:55:20]    • Processed: 131
+[2026-03-26 08:55:20]    • Failed: 0
+[2026-03-26 08:55:20]    • Modules: 17
+[2026-03-26 08:55:20]    • Processing Time: 0.6s
+[2026-03-26 08:55:20] 💾 Automatically saving data sources for 2023...
+[2026-03-26 08:55:20] ✅ Data sources saved: 7 indicators from 3 sources
+[2026-03-26 08:55:20]    • Report saved: BANK_OF_BARODA_2023_data_sources
+[2026-03-26 08:55:20]    • Coverage: 4.6%
+[2026-03-26 08:55:20] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-26 08:55:20] 📈 Pipeline Summary:
+[2026-03-26 08:55:20]    • Company: BANK OF BARODA (ID: 26)
+[2026-03-26 08:55:20]    • Years Processed: [2023]
+[2026-03-26 08:55:20]    • Years Failed: []
+[2026-03-26 08:55:20]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-26 08:55:20]    • TARGET 151 Indicators: 4/151 (2.6% coverage with real data)
+[2026-03-26 08:55:20]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-26 08:55:20] 💾 Data sources automatically saved for all processed years
+[2026-03-26 08:55:20] 📁 Company data snapshot exported

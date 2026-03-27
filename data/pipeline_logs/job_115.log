@@ -1,0 +1,19 @@
+[2026-03-24 19:21:44] 🚀 Started ESG processing pipeline for company='NIPPON LIFE INDIA ASSET MANAGEMENT LIMITED', years=[2025]
+[2026-03-24 19:21:44] 📅 Processing years: [2025]
+[2026-03-24 19:21:44] 🔄 Starting ESG processing for year 2025...
+[2026-03-24 19:21:44] 📊 Processing 21 ESG modules and 151 indicators...
+[2026-03-24 19:21:45] ✅ Year 2025 completed:
+[2026-03-24 19:21:45]    • Total Indicators: 131
+[2026-03-24 19:21:45]    • Processed: 131
+[2026-03-24 19:21:45]    • Failed: 0
+[2026-03-24 19:21:45]    • Modules: 17
+[2026-03-24 19:21:45]    • Processing Time: 1.5s
+[2026-03-24 19:21:45] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 19:21:45] 📈 Pipeline Summary:
+[2026-03-24 19:21:45]    • Company: NIPPON LIFE INDIA ASSET MANAGEMENT LIMITED (ID: 39)
+[2026-03-24 19:21:45]    • Years Processed: [2025]
+[2026-03-24 19:21:45]    • Years Failed: []
+[2026-03-24 19:21:45]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 19:21:45]    • Total Indicators: 151
+[2026-03-24 19:21:45]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 19:21:45] 📁 Company data snapshot exported

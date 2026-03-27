@@ -1,0 +1,386 @@
+{
+  "company_id": 46,
+  "company_name": "Infosys Limited",
+  "year": 2024,
+  "analysis_date": "2026-03-26T13:08:24.179661",
+  "total_indicators": 191,
+  "total_sources": 8,
+  "source_breakdown": {
+    "document_mining_patterns": {
+      "type": "scraped",
+      "indicator_count": 4,
+      "indicators": [
+        "IMP-M01-I08",
+        "IMP-M02-I09",
+        "IMP-M11-I01",
+        "IMP-M15-I08"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I08",
+          "value": "Board composition with independent directors"
+        },
+        {
+          "indicator": "IMP-M02-I09",
+          "value": "Anti-corruption and bribery policies"
+        },
+        {
+          "indicator": "IMP-M11-I01",
+          "value": "Global delivery centers operational"
+        }
+      ]
+    },
+    "dynamic_it_industry_patterns": {
+      "type": "scraped",
+      "indicator_count": 3,
+      "indicators": [
+        "IMP-M01-I04",
+        "IMP-M01-I05",
+        "IMP-M19-I03"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I04",
+          "value": "Listed on NSE (INFY) and BSE (500209) as of 2024"
+        },
+        {
+          "indicator": "IMP-M01-I05",
+          "value": "IT services and consulting company - verified 2024"
+        },
+        {
+          "indicator": "IMP-M19-I03",
+          "value": "AI initiatives: artificial intelligence, automation - confirmed 2024"
+        }
+      ]
+    },
+    "dynamic_sustainability_patterns": {
+      "type": "scraped",
+      "indicator_count": 2,
+      "indicators": [
+        "IMP-M05-I05",
+        "IMP-M05-I06"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M05-I05",
+          "value": "Science-based targets initiative commitment - validated 2024"
+        },
+        {
+          "indicator": "IMP-M05-I06",
+          "value": "Renewable energy initiatives: renewable energy - 2024"
+        }
+      ]
+    },
+    "financial_sector_patterns": {
+      "type": "scraped",
+      "indicator_count": 27,
+      "indicators": [
+        "IMP-M03-I08",
+        "IMP-M03-I09",
+        "IMP-M03-I10",
+        "IMP-M03-I11",
+        "IMP-M03-I12",
+        "IMP-M04-I06",
+        "IMP-M04-I07",
+        "IMP-M04-I08",
+        "IMP-M10-I01",
+        "IMP-M10-I02",
+        "IMP-M10-I03",
+        "IMP-M10-I04",
+        "IMP-M10-I05",
+        "IMP-M12-I01",
+        "IMP-M12-I02",
+        "IMP-M12-I03",
+        "IMP-M12-I04",
+        "IMP-M12-I05",
+        "IMP-M16-I01",
+        "IMP-M16-I02",
+        "IMP-M16-I03",
+        "IMP-M16-I04",
+        "IMP-M17-I01",
+        "IMP-M17-I02",
+        "IMP-M17-I03",
+        "IMP-M17-I04",
+        "IMP-M17-I05"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M03-I08",
+          "value": "Quarterly revenue growth reported"
+        },
+        {
+          "indicator": "IMP-M03-I09",
+          "value": "Operating margin maintained above 20%"
+        },
+        {
+          "indicator": "IMP-M03-I10",
+          "value": "Free cash flow generation positive"
+        }
+      ]
+    },
+    "it_industry_patterns": {
+      "type": "scraped",
+      "indicator_count": 39,
+      "indicators": [
+        "IMP-M01-I04",
+        "IMP-M01-I05",
+        "IMP-M01-I06",
+        "IMP-M01-I07",
+        "IMP-M02-I01",
+        "IMP-M02-I02",
+        "IMP-M02-I03",
+        "IMP-M02-I04",
+        "IMP-M02-I05",
+        "IMP-M02-I06",
+        "IMP-M02-I07",
+        "IMP-M02-I08",
+        "IMP-M04-I01",
+        "IMP-M04-I02",
+        "IMP-M04-I03",
+        "IMP-M04-I04",
+        "IMP-M04-I05",
+        "IMP-M11-I02",
+        "IMP-M11-I03",
+        "IMP-M11-I04",
+        "IMP-M11-I05",
+        "IMP-M13-I02",
+        "IMP-M13-I03",
+        "IMP-M13-I04",
+        "IMP-M13-I05",
+        "IMP-M18-I01",
+        "IMP-M18-I02",
+        "IMP-M18-I03",
+        "IMP-M18-I04",
+        "IMP-M19-I01",
+        "IMP-M19-I02",
+        "IMP-M19-I03",
+        "IMP-M19-I04",
+        "IMP-M19-I05",
+        "IMP-M21-I01",
+        "IMP-M21-I02",
+        "IMP-M21-I03",
+        "IMP-M21-I04",
+        "IMP-M21-I05"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I04",
+          "value": "Listed on NSE and BSE stock exchanges"
+        },
+        {
+          "indicator": "IMP-M01-I05",
+          "value": "IT services and consulting business model"
+        },
+        {
+          "indicator": "IMP-M01-I06",
+          "value": "Global delivery model with offshore centers"
+        }
+      ]
+    },
+    "real_pdf_extraction": {
+      "type": "scraped",
+      "indicator_count": 6,
+      "indicators": [
+        "IMP-M01-I01",
+        "IMP-M01-I02",
+        "IMP-M03-I01",
+        "IMP-M03-I02",
+        "IMP-M15-I01",
+        "IMP-M15-I02"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I01",
+          "value": "of the report Website link"
+        },
+        {
+          "indicator": "IMP-M01-I02",
+          "value": "The Company did not undergo any change in the nature of its \nbusiness during fiscal"
+        },
+        {
+          "indicator": "IMP-M03-I01",
+          "value": "1,36,592"
+        }
+      ]
+    },
+    "sustainability_patterns": {
+      "type": "scraped",
+      "indicator_count": 27,
+      "indicators": [
+        "IMP-M05-I04",
+        "IMP-M05-I05",
+        "IMP-M05-I06",
+        "IMP-M05-I07",
+        "IMP-M05-I08",
+        "IMP-M05-I09",
+        "IMP-M06-I04",
+        "IMP-M06-I05",
+        "IMP-M06-I06",
+        "IMP-M07-I03",
+        "IMP-M07-I04",
+        "IMP-M07-I05",
+        "IMP-M07-I06",
+        "IMP-M07-I07",
+        "IMP-M07-I08",
+        "IMP-M08-I03",
+        "IMP-M08-I04",
+        "IMP-M08-I05",
+        "IMP-M08-I06",
+        "IMP-M08-I07",
+        "IMP-M08-I08",
+        "IMP-M09-I01",
+        "IMP-M09-I02",
+        "IMP-M09-I03",
+        "IMP-M09-I04",
+        "IMP-M09-I05",
+        "IMP-M09-I06"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M05-I04",
+          "value": "Carbon neutrality targets set for 2030"
+        },
+        {
+          "indicator": "IMP-M05-I05",
+          "value": "Science-based emission reduction targets"
+        },
+        {
+          "indicator": "IMP-M05-I06",
+          "value": "Renewable energy procurement strategy"
+        }
+      ]
+    },
+    "manual_input": {
+      "type": "manual",
+      "indicator_count": 83,
+      "indicators": [
+        "IMP-M01-I01",
+        "IMP-M01-I02",
+        "IMP-M01-I04",
+        "IMP-M01-I05",
+        "IMP-M01-I06",
+        "IMP-M01-I07",
+        "IMP-M01-I08",
+        "IMP-M02-I01",
+        "IMP-M02-I02",
+        "IMP-M02-I03",
+        "IMP-M02-I04",
+        "IMP-M02-I05",
+        "IMP-M02-I06",
+        "IMP-M02-I07",
+        "IMP-M02-I08",
+        "IMP-M02-I09",
+        "IMP-M03-I01",
+        "IMP-M03-I02",
+        "IMP-M03-I08",
+        "IMP-M03-I09",
+        "IMP-M04-I01",
+        "IMP-M04-I02",
+        "IMP-M04-I03",
+        "IMP-M04-I04",
+        "IMP-M04-I05",
+        "IMP-M05-I04",
+        "IMP-M05-I05",
+        "IMP-M05-I06",
+        "IMP-M05-I07",
+        "IMP-M05-I08",
+        "IMP-M05-I09",
+        "IMP-M06-I05",
+        "IMP-M06-I06",
+        "IMP-M07-I04",
+        "IMP-M07-I05",
+        "IMP-M07-I07",
+        "IMP-M07-I08",
+        "IMP-M08-I03",
+        "IMP-M08-I04",
+        "IMP-M08-I05",
+        "IMP-M08-I06",
+        "IMP-M08-I07",
+        "IMP-M08-I08",
+        "IMP-M09-I01",
+        "IMP-M10-I01",
+        "IMP-M10-I02",
+        "IMP-M10-I03",
+        "IMP-M10-I04",
+        "IMP-M10-I05",
+        "IMP-M11-I01",
+        "IMP-M11-I02",
+        "IMP-M11-I03",
+        "IMP-M11-I04",
+        "IMP-M11-I05",
+        "IMP-M12-I01",
+        "IMP-M12-I02",
+        "IMP-M12-I03",
+        "IMP-M12-I04",
+        "IMP-M12-I05",
+        "IMP-M13-I02",
+        "IMP-M13-I03",
+        "IMP-M13-I04",
+        "IMP-M13-I05",
+        "IMP-M15-I01",
+        "IMP-M15-I02",
+        "IMP-M15-I08",
+        "IMP-M16-I01",
+        "IMP-M16-I04",
+        "IMP-M17-I01",
+        "IMP-M17-I02",
+        "IMP-M17-I03",
+        "IMP-M18-I01",
+        "IMP-M18-I02",
+        "IMP-M18-I03",
+        "IMP-M18-I04",
+        "IMP-M19-I01",
+        "IMP-M19-I02",
+        "IMP-M19-I03",
+        "IMP-M19-I04",
+        "IMP-M19-I05",
+        "IMP-M21-I01",
+        "IMP-M21-I02",
+        "IMP-M21-I04"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I01",
+          "value": "of the report Website link"
+        },
+        {
+          "indicator": "IMP-M01-I02",
+          "value": "The Company did not undergo any change in the nature of its \nbusiness during fiscal"
+        },
+        {
+          "indicator": "IMP-M01-I04",
+          "value": "Listed on NSE and BSE stock exchanges"
+        }
+      ]
+    }
+  },
+  "source_methods": {
+    "comprehensive_extraction": [
+      "real_pdf_extraction"
+    ],
+    "web_scraping": [],
+    "document_upload": [
+      "document_mining_patterns"
+    ],
+    "manual_entry": [
+      "manual_input"
+    ],
+    "api_collection": [],
+    "unknown": [
+      "dynamic_it_industry_patterns",
+      "dynamic_sustainability_patterns",
+      "financial_sector_patterns",
+      "it_industry_patterns",
+      "sustainability_patterns"
+    ]
+  },
+  "coverage_analysis": {
+    "total_indicators": 191,
+    "scraped_indicators": 108,
+    "manual_indicators": 83,
+    "target_151_coverage": "126.5%",
+    "data_quality": "EXCELLENT"
+  },
+  "auto_save_context": "pipeline_run",
+  "auto_save_timestamp": "2026-03-26T13:08:24.179864"
+}

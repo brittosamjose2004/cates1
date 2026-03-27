@@ -1,0 +1,22 @@
+[2026-03-24 21:05:50] 🚀 Started ESG processing pipeline for company='TATA STEEL LIMITED', years=[2026]
+[2026-03-24 21:05:50] 📅 Processing years: [2026]
+[2026-03-24 21:05:50] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:05:50] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:05:50] ✅ Complete 151/151 system: 151 indicators filled
+[2026-03-24 21:05:50] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:05:51] ✅ Year 2026 completed:
+[2026-03-24 21:05:51]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:05:51]    • Total Indicators: 131
+[2026-03-24 21:05:51]    • Processed: 131
+[2026-03-24 21:05:51]    • Failed: 0
+[2026-03-24 21:05:51]    • Modules: 17
+[2026-03-24 21:05:51]    • Processing Time: 0.7s
+[2026-03-24 21:05:51] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:05:51] 📈 Pipeline Summary:
+[2026-03-24 21:05:51]    • Company: TATA STEEL LIMITED (ID: 21)
+[2026-03-24 21:05:51]    • Years Processed: [2026]
+[2026-03-24 21:05:51]    • Years Failed: []
+[2026-03-24 21:05:51]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:05:51]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:05:51]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:05:51] 📁 Company data snapshot exported

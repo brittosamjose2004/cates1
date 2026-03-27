@@ -1,0 +1,22 @@
+[2026-03-24 21:06:06] 🚀 Started ESG processing pipeline for company='INDIAMART INTERMESH LIMITED', years=[2026]
+[2026-03-24 21:06:06] 📅 Processing years: [2026]
+[2026-03-24 21:06:06] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:06:06] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:06:06] ✅ Complete 151/151 system: 151 indicators filled
+[2026-03-24 21:06:06] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:06:06] ✅ Year 2026 completed:
+[2026-03-24 21:06:06]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:06:06]    • Total Indicators: 131
+[2026-03-24 21:06:06]    • Processed: 131
+[2026-03-24 21:06:06]    • Failed: 0
+[2026-03-24 21:06:06]    • Modules: 17
+[2026-03-24 21:06:06]    • Processing Time: 0.7s
+[2026-03-24 21:06:06] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:06:06] 📈 Pipeline Summary:
+[2026-03-24 21:06:06]    • Company: INDIAMART INTERMESH LIMITED (ID: 41)
+[2026-03-24 21:06:06]    • Years Processed: [2026]
+[2026-03-24 21:06:06]    • Years Failed: []
+[2026-03-24 21:06:06]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:06:06]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:06:06]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:06:06] 📁 Company data snapshot exported

@@ -1,0 +1,25 @@
+[2026-03-25 06:46:31] 🚀 Started ESG processing pipeline for company='ASIAN PAINTS (POLYMERS) PRIVATE LIMITED', years=[2025]
+[2026-03-25 06:46:31] 📅 Processing years: [2025]
+[2026-03-25 06:46:31] 🔄 Starting ESG processing for year 2025...
+[2026-03-25 06:46:31] 📂 Collecting real ESG documents from online sources...
+[2026-03-25 06:46:31] ✅ Document collection: 0 documents collected from real sources
+[2026-03-25 06:46:31] 📊 Processing 151 ESG indicators with REAL DATA ONLY...
+[2026-03-25 06:46:31] ✅ Real Data Processing: 151/151 indicators processed with authentic data
+[2026-03-25 06:46:31] 🚫 NO SYNTHETIC DATA - Only real documents, manual input, and historical data used
+[2026-03-25 06:46:31] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-25 06:46:31] ✅ Year 2025 completed:
+[2026-03-25 06:46:31]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-25 06:46:31]    • Total Indicators: 131
+[2026-03-25 06:46:31]    • Processed: 131
+[2026-03-25 06:46:31]    • Failed: 0
+[2026-03-25 06:46:31]    • Modules: 17
+[2026-03-25 06:46:31]    • Processing Time: 0.4s
+[2026-03-25 06:46:31] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-25 06:46:31] 📈 Pipeline Summary:
+[2026-03-25 06:46:31]    • Company: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (ID: 14)
+[2026-03-25 06:46:31]    • Years Processed: [2025]
+[2026-03-25 06:46:31]    • Years Failed: []
+[2026-03-25 06:46:31]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-25 06:46:31]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-25 06:46:31]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-25 06:46:31] 📁 Company data snapshot exported

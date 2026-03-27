@@ -1,0 +1,19 @@
+[2026-03-24 18:48:50] 🚀 Started ESG processing pipeline for company='SUN TV NETWORK LIMITED', years=[2025]
+[2026-03-24 18:48:50] 📅 Processing years: [2025]
+[2026-03-24 18:48:50] 🔄 Starting ESG processing for year 2025...
+[2026-03-24 18:48:50] 📊 Processing 21 ESG modules and 151 indicators...
+[2026-03-24 18:48:50] ✅ Year 2025 completed:
+[2026-03-24 18:48:50]    • Total Indicators: 131
+[2026-03-24 18:48:50]    • Processed: 131
+[2026-03-24 18:48:50]    • Failed: 0
+[2026-03-24 18:48:50]    • Modules: 17
+[2026-03-24 18:48:50]    • Processing Time: 0.7s
+[2026-03-24 18:48:50] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 18:48:50] 📈 Pipeline Summary:
+[2026-03-24 18:48:50]    • Company: SUN TV NETWORK LIMITED (ID: 36)
+[2026-03-24 18:48:50]    • Years Processed: [2025]
+[2026-03-24 18:48:50]    • Years Failed: []
+[2026-03-24 18:48:50]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 18:48:50]    • Total Indicators: 151
+[2026-03-24 18:48:50]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 18:48:50] 📁 Company data snapshot exported

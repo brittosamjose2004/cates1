@@ -1,0 +1,15 @@
+[2026-03-26 14:04:29] 🚀 Started ESG processing pipeline for company='EMAMI LIMITED', years=[2024]
+[2026-03-26 14:04:29] 📅 Processing years: [2024]
+[2026-03-26 14:04:29] 🔄 Starting ESG processing for year 2024...
+[2026-03-26 14:04:29] 📂 Collecting real ESG documents from online sources...
+[2026-03-26 14:04:37] ✅ Document collection: 0 documents collected from real sources
+[2026-03-26 14:04:37] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-26 14:04:37] ✅ TARGET 151 INDICATORS: 0/151 found (0.0% coverage) - PARTIAL
+[2026-03-26 14:04:37]    • Modules: 0 complete, 0 partial, 21 empty
+[2026-03-26 14:04:37]    • Missing: 151 indicators (first 3: IMP-M01-I01, IMP-M01-I02, IMP-M01-I03...)
+[2026-03-26 14:04:37] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-26 14:04:37] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-26 14:04:37] 📊 Pipeline sources:
+[2026-03-26 14:04:37]    • Document sources (PDFs, reports)
+[2026-03-26 14:04:37]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-26 14:04:37]    • Online sources (web scraping)

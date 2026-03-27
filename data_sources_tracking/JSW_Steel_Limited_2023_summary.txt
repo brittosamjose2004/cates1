@@ -1,0 +1,31 @@
+DATA SOURCES REPORT
+Company: JSW Steel Limited (ID: 44)
+Year: 2023
+Analysis Date: 2026-03-25T15:23:47.412567
+============================================================
+
+SUMMARY:
+Total Indicators: 540
+Total Sources: 2
+Target 151 Coverage: 357.6%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+jsw_steel_comprehensive_extraction_2023:
+  Type: scraped
+  Indicators: 390
+  Sample Data:
+    IMP-M01-I01: JSW Steel Limited...
+    IMP-M01-I02: L27102MH1994PLC152925...
+
+manual_input:
+  Type: manual
+  Indicators: 150
+  Sample Data:
+    IMP-M01-I01: JSW Steel Limited...
+    IMP-M01-I02: L27102MH1994PLC152925...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: jsw_steel_comprehensive_extraction_2023
+  MANUAL_ENTRY: manual_input

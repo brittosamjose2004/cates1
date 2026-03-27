@@ -1,0 +1,163 @@
+{
+  "company_id": 14,
+  "company_name": "ASIAN PAINTS (POLYMERS) PRIVATE LIMITED",
+  "year": 2026,
+  "analysis_date": "2026-03-26T18:04:17.182307",
+  "total_indicators": 78,
+  "total_sources": 3,
+  "source_breakdown": {
+    "brsr_annual_report_social_paints_adapted": {
+      "type": "scraped",
+      "indicator_count": 1,
+      "indicators": [
+        "IMP-M15-I05"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M15-I05",
+          "value": "[Paints Industry] Training: , managing incidents, and \npreparing for emergencies......"
+        }
+      ]
+    },
+    "comprehensive_company_research_paints": {
+      "type": "scraped",
+      "indicator_count": 38,
+      "indicators": [
+        "IMP-M01-I01",
+        "IMP-M01-I02",
+        "IMP-M01-I03",
+        "IMP-M01-I04",
+        "IMP-M01-I05",
+        "IMP-M01-I06",
+        "IMP-M01-I07",
+        "IMP-M02-I01",
+        "IMP-M02-I02",
+        "IMP-M02-I03",
+        "IMP-M02-I04",
+        "IMP-M02-I05",
+        "IMP-M02-I06",
+        "IMP-M02-I07",
+        "IMP-M03-I01",
+        "IMP-M03-I02",
+        "IMP-M03-I03",
+        "IMP-M03-I04",
+        "IMP-M05-I01",
+        "IMP-M05-I02",
+        "IMP-M05-I03",
+        "IMP-M05-I04",
+        "IMP-M05-I05",
+        "IMP-M06-I01",
+        "IMP-M06-I02",
+        "IMP-M06-I03",
+        "IMP-M07-I01",
+        "IMP-M07-I02",
+        "IMP-M07-I03",
+        "IMP-M11-I01",
+        "IMP-M11-I02",
+        "IMP-M15-I01",
+        "IMP-M15-I02",
+        "IMP-M15-I03",
+        "IMP-M15-I04",
+        "IMP-M16-I01",
+        "IMP-M16-I02",
+        "IMP-M16-I03"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I01",
+          "value": "ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (CIN: U24292MH1945PLC004598)"
+        },
+        {
+          "indicator": "IMP-M01-I02",
+          "value": "Paint Manufacturing and Chemicals - Decorative paints, industrial coatings, automotive coatings, adh"
+        },
+        {
+          "indicator": "IMP-M01-I03",
+          "value": "Headquarters: Mumbai, Maharashtra, India. Operations: 26 paint manufacturing facilities across 15 co"
+        }
+      ]
+    },
+    "manual_input": {
+      "type": "manual",
+      "indicator_count": 39,
+      "indicators": [
+        "IMP-M01-I01",
+        "IMP-M01-I02",
+        "IMP-M01-I03",
+        "IMP-M01-I04",
+        "IMP-M01-I05",
+        "IMP-M01-I06",
+        "IMP-M01-I07",
+        "IMP-M02-I01",
+        "IMP-M02-I02",
+        "IMP-M02-I03",
+        "IMP-M02-I04",
+        "IMP-M02-I05",
+        "IMP-M02-I06",
+        "IMP-M02-I07",
+        "IMP-M03-I01",
+        "IMP-M03-I02",
+        "IMP-M03-I03",
+        "IMP-M03-I04",
+        "IMP-M05-I01",
+        "IMP-M05-I02",
+        "IMP-M05-I03",
+        "IMP-M05-I04",
+        "IMP-M05-I05",
+        "IMP-M06-I01",
+        "IMP-M06-I02",
+        "IMP-M06-I03",
+        "IMP-M07-I01",
+        "IMP-M07-I02",
+        "IMP-M07-I03",
+        "IMP-M11-I01",
+        "IMP-M11-I02",
+        "IMP-M15-I01",
+        "IMP-M15-I02",
+        "IMP-M15-I03",
+        "IMP-M15-I04",
+        "IMP-M15-I05",
+        "IMP-M16-I01",
+        "IMP-M16-I02",
+        "IMP-M16-I03"
+      ],
+      "sample_values": [
+        {
+          "indicator": "IMP-M01-I01",
+          "value": "ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (CIN: U24292MH1945PLC004598)"
+        },
+        {
+          "indicator": "IMP-M01-I02",
+          "value": "Paint Manufacturing and Chemicals - Decorative paints, industrial coatings, automotive coatings, adh"
+        },
+        {
+          "indicator": "IMP-M01-I03",
+          "value": "Headquarters: Mumbai, Maharashtra, India. Operations: 26 paint manufacturing facilities across 15 co"
+        }
+      ]
+    }
+  },
+  "source_methods": {
+    "comprehensive_extraction": [
+      "comprehensive_company_research_paints"
+    ],
+    "web_scraping": [],
+    "document_upload": [],
+    "manual_entry": [
+      "manual_input"
+    ],
+    "api_collection": [],
+    "unknown": [
+      "brsr_annual_report_social_paints_adapted"
+    ]
+  },
+  "coverage_analysis": {
+    "total_indicators": 78,
+    "scraped_indicators": 39,
+    "manual_indicators": 39,
+    "target_151_coverage": "51.7%",
+    "data_quality": "PARTIAL"
+  },
+  "auto_save_context": "pipeline_run",
+  "auto_save_timestamp": "2026-03-26T18:04:17.183127"
+}

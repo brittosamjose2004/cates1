@@ -1,0 +1,34 @@
+DATA SOURCES REPORT
+Company: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED (ID: 14)
+Year: 2026
+Analysis Date: 2026-03-25T15:16:39.093110
+============================================================
+
+SUMMARY:
+Total Indicators: 151
+Total Sources: 3
+Target 151 Coverage: 100.0%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+evidence_16:
+  Type: scraped
+  Indicators: 0
+  Sample Data:
+
+yahoo:
+  Type: scraped
+  Indicators: 0
+  Sample Data:
+
+manual_input:
+  Type: manual
+  Indicators: 151
+  Sample Data:
+    IMP-M01-I01: ASIAN PAINTS (POLYMERS) PRIVATE LIMITED | CIN: LMA...
+    IMP-M01-I02: Primary business activities: Manufacturing operati...
+
+SOURCE METHODS:
+  MANUAL_ENTRY: manual_input
+  UNKNOWN: evidence_16, yahoo

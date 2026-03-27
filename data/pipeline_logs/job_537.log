@@ -1,0 +1,32 @@
+[2026-03-26 06:09:06] 🚀 Started ESG processing pipeline for company='Infosys Limited', years=[2023]
+[2026-03-26 06:09:06] 📅 Processing years: [2023]
+[2026-03-26 06:09:06] 🔄 Starting ESG processing for year 2023...
+[2026-03-26 06:09:06] 📂 Collecting real ESG documents from online sources...
+[2026-03-26 06:09:14] ✅ Document collection: 0 documents collected from real sources
+[2026-03-26 06:09:14] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-26 06:09:14] ✅ TARGET 151 INDICATORS: 0/151 found (0.0% coverage) - PARTIAL
+[2026-03-26 06:09:14]    • Modules: 0 complete, 0 partial, 21 empty
+[2026-03-26 06:09:14]    • Missing: 151 indicators (first 3: IMP-M01-I01, IMP-M01-I02, IMP-M01-I03...)
+[2026-03-26 06:09:14] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-26 06:09:14] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-26 06:09:15] ✅ Year 2023 completed:
+[2026-03-26 06:09:15]    • Target 151 Indicators: 1/151 found (0.7% coverage)
+[2026-03-26 06:09:15]    • Total Indicators: 131
+[2026-03-26 06:09:15]    • Processed: 131
+[2026-03-26 06:09:15]    • Failed: 0
+[2026-03-26 06:09:15]    • Modules: 17
+[2026-03-26 06:09:15]    • Processing Time: 1.3s
+[2026-03-26 06:09:15] 💾 Automatically saving data sources for 2023...
+[2026-03-26 06:09:15] ✅ Data sources saved: 1 indicators from 1 sources
+[2026-03-26 06:09:15]    • Report saved: Infosys_Limited_2023_data_sources
+[2026-03-26 06:09:15]    • Coverage: 0.7%
+[2026-03-26 06:09:15] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-26 06:09:15] 📈 Pipeline Summary:
+[2026-03-26 06:09:15]    • Company: Infosys Limited (ID: 46)
+[2026-03-26 06:09:15]    • Years Processed: [2023]
+[2026-03-26 06:09:15]    • Years Failed: []
+[2026-03-26 06:09:15]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-26 06:09:15]    • TARGET 151 Indicators: 1/151 (0.7% coverage with real data)
+[2026-03-26 06:09:15]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-26 06:09:15] 💾 Data sources automatically saved for all processed years
+[2026-03-26 06:09:15] 📁 Company data snapshot exported

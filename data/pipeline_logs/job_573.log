@@ -1,0 +1,16 @@
+[2026-03-27 04:40:35] 🚀 Started ESG processing pipeline for company='BANDHAN BANK LIMITED', years=[2023]
+[2026-03-27 04:40:35] 📅 Processing years: [2023]
+[2026-03-27 04:40:35] 🔄 Starting ESG processing for year 2023...
+[2026-03-27 04:40:35] 📂 Collecting real ESG documents from online sources...
+[2026-03-27 04:40:35] 📁 Found 2 local report PDF(s) for BANDHAN BANK LIMITED 2023
+[2026-03-27 04:40:45] ✅ Document collection: 152 documents collected from real sources
+[2026-03-27 04:40:45] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-27 04:40:45] ✅ TARGET 151 INDICATORS: 150/151 found (99.3% coverage) - EXCELLENT
+[2026-03-27 04:40:45]    • Modules: 20 complete, 1 partial, 0 empty
+[2026-03-27 04:40:45]    • Missing: IMP-M07-I04
+[2026-03-27 04:40:45] 🚫 NO SYNTHETIC DATA - Only comprehensive database, manual input, documents, and historical data used
+[2026-03-27 04:40:45] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-27 04:40:45] 📊 Pipeline sources:
+[2026-03-27 04:40:45]    • Document sources (PDFs, reports)
+[2026-03-27 04:40:45]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-27 04:40:45]    • Online sources (web scraping)

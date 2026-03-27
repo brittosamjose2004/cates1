@@ -1,0 +1,511 @@
+===============================================================================
+IMPACTREE STANDARD QUESTIONNAIRE v1.0
+DATA SOURCES SUMMARY BY MODULE
+===============================================================================
+
+OVERVIEW:
+- Total Modules: 21
+- Total Indicators: 151
+- Standards Integrated: BRSR, CDP, EcoVadis, GRI
+
+===============================================================================
+MODULE 01: GENERAL & ORGANIZATIONAL PROFILE
+===============================================================================
+Indicators: 7
+Key Indicators:
+  • Company Identity & Registration
+  • Business Activities & Products
+  • Operational Footprint
+  • Reporting Scope & Boundary
+  • Subsidiaries & Joint Ventures
+  • Stakeholder Identification & Engagement
+  • Value Chain Mapping
+
+MAIN DATA SOURCES:
+  - Internal: Company registration documents, financial statements, facility 
+    databases, organizational records, engagement tracking systems
+  - External: Stock exchange disclosures, annual reports, website information
+  - Systems: HRIS, facility management systems, stakeholder databases
+  
+STANDARDS MAPPED: BRSR (Primary), CDP, GRI
+
+===============================================================================
+MODULE 02: SUSTAINABILITY MANAGEMENT & REPORTING
+===============================================================================
+Indicators: 8
+Key Indicators:
+  • Sustainability Policies & Commitments
+  • Goals, Targets & Performance Tracking
+  • Certifications & Standards Adopted
+  • Sustainability Endorsements & Initiatives
+  • Third-Party Assurance & External Audits
+  • Materiality Assessment
+  • KPI Reporting Standards & Frameworks
+  • SDG Alignment
+
+MAIN DATA SOURCES:
+  - Internal: Policy documents, board minutes, target tracking systems, 
+    certification registers, audit reports, materiality assessment workshops
+  - External: GRI standards, CDP guidelines, EcoVadis criteria, assurance 
+    provider reports
+  - Systems: ESG management systems, KPI dashboards, document management
+  
+STANDARDS MAPPED: BRSR, CDP, EcoVadis, GRI (All 4 standards)
+
+===============================================================================
+MODULE 03: GOVERNANCE & ETHICS
+===============================================================================
+Indicators: 9
+Key Indicators:
+  • Board Oversight of ESG
+  • Management Responsibility for ESG
+  • Anti-Corruption & Anti-Bribery
+  • Conflicts of Interest
+  • Anti-Competitive Behaviour
+  • Tax Governance & Transparency
+  • Public Policy Advocacy
+  • Grievance & Whistleblower Mechanisms
+  • Regulatory Penalties & Legal Actions
+
+MAIN DATA SOURCES:
+  - Internal: Board meeting minutes, committee charters, organizational 
+    structure, policy documents, training records, incident tracking systems, 
+    legal case files, regulatory correspondence
+  - External: Regulatory databases, legal authorities, audit firms
+  - Systems: Grievance management system, incident tracking, compliance 
+    monitoring, legal case management
+  
+STANDARDS MAPPED: BRSR, CDP, EcoVadis, GRI
+
+===============================================================================
+MODULE 04: RISK & OPPORTUNITY MANAGEMENT
+===============================================================================
+Indicators: 6
+Key Indicators:
+  • Risk & Opportunity Identification Process
+  • Climate-Related Financial Risks & Opportunities
+  • Nature & Biodiversity-Related Risks
+  • Water-Related Risks
+  • Scenario Analysis
+  • Business Continuity & Disaster Management
+
+MAIN DATA SOURCES:
+  - Internal: Risk registers, scenario planning documents, business continuity 
+    plans, financial models, impact assessments
+  - External: CDP climate questionnaire, climate science data, water risk tools 
+    (WRI Aqueduct), biodiversity databases
+  - Systems: Risk management software, strategic planning tools, scenario 
+    modeling systems
+  
+STANDARDS MAPPED: CDP (Primary), GRI (partial)
+
+===============================================================================
+MODULE 05: GHG EMISSIONS & CLIMATE CHANGE
+===============================================================================
+Indicators: 9
+Key Indicators:
+  • Scope 1 (Direct) GHG Emissions
+  • Scope 2 (Indirect) GHG Emissions
+  • Scope 3 (Value Chain) GHG Emissions
+  • GHG Emission Intensity
+  • GHG Emission Reduction Targets & Progress
+  • Climate Transition Plan & Strategy
+  • Carbon Credits & Offsets
+  • GHG Reduction Initiatives & Projects
+  • Biogenic Emissions
+
+MAIN DATA SOURCES:
+  - Internal: Energy consumption data (fuel, electricity), facility records, 
+    employee commute data, business travel records, waste disposal data, 
+    supply chain data, production volumes, revenue figures
+  - External: Emission factor databases (IPCC, EPA, country-specific), 
+    regional grid emission factors, renewable energy certificates, carbon 
+    credit registries
+  - Systems: Energy management systems (EMS), emissions tracking software, 
+    CDP platform data
+  
+STANDARDS MAPPED: BRSR, CDP, EcoVadis, GRI (All 4 standards - Most comprehensive)
+
+KEY DATABASES REQUIRED:
+  ✓ IPCC GHG Emission Factor Database
+  ✓ EPA Emission Factors for Greenhouse Gas Inventories
+  ✓ Country-specific emission factors
+  ✓ Science Based Targets initiative (SBTi) database
+  ✓ Carbon credit verification standards (Gold Standard, VCS)
+
+===============================================================================
+MODULE 06: ENERGY
+===============================================================================
+Indicators: 6
+Key Indicators:
+  • Total Energy Consumption
+  • Renewable Energy Usage
+  • Energy Efficiency Initiatives
+  • Energy Management Systems
+  • Energy Intensity & Performance
+  • Energy Reduction Targets & Performance
+
+MAIN DATA SOURCES:
+  - Internal: Utility bills, meter readings, energy audit reports, renewable 
+    energy certificates, ISO 50001 certification, capex records
+  - External: Regional renewable energy databases, power grid data
+  - Systems: Energy management systems (EMS), SCADA systems, utility billing 
+    systems
+  
+STANDARDS MAPPED: BRSR (Primary)
+
+===============================================================================
+MODULE 07: WATER & EFFLUENTS
+===============================================================================
+Indicators: 5
+Key Indicators:
+  • Water Withdrawal by Source
+  • Water Consumption & Recycling
+  • Water Stress Areas & Risk Management
+  • Wastewater Treatment & Discharge
+  • Water-Related Incidents
+
+MAIN DATA SOURCES:
+  - Internal: Water meter readings, treatment plant data, discharge permits, 
+    monitoring records, environmental impact assessments
+  - External: WRI Aqueduct (water stress mapping), hydrological data, 
+    environmental regulatory databases
+  - Systems: Water management systems, SCADA systems, GIS mapping, water 
+    accounting software
+  
+STANDARDS MAPPED: BRSR, CDP
+
+===============================================================================
+MODULE 08: WASTE & MATERIALS
+===============================================================================
+Indicators: 8
+Key Indicators:
+  • Waste Generation & Characterization
+  • Waste Disposal & Management
+  • Waste Recycling & Recovery
+  • Hazardous Waste Management
+  • Waste Intensity & Reduction Targets
+  • Plastic Management & Single-Use Reduction
+  • Product End-of-Life Management
+  • Extended Producer Responsibility (EPR)
+
+MAIN DATA SOURCES:
+  - Internal: Waste audit reports, waste contractor manifests, recycling 
+    program records, product lifecycle assessments, take-back program data
+  - External: EPR compliance databases, recycling facility certifications, 
+    material recovery standards
+  - Systems: Waste tracking systems, material flow analysis tools, 
+    contractor management systems
+  
+STANDARDS MAPPED: BRSR, EcoVadis
+
+===============================================================================
+MODULE 09: POLLUTION & EMISSIONS (Air Quality)
+===============================================================================
+Indicators: 3
+Key Indicators:
+  • Air Emissions (NOx, SOx, VOCs, Particulate)
+  • Ozone-Depleting Substances (ODS)
+  • Air Quality Management
+
+MAIN DATA SOURCES:
+  - Internal: Stack testing reports, continuous emissions monitoring data, 
+    chemical inventory, operational records
+  - External: Air quality monitoring networks, environmental regulatory 
+    databases, Montreal Protocol compliance records
+  - Systems: Continuous emissions monitoring systems (CEMS), environmental 
+    monitoring networks
+  
+STANDARDS MAPPED: Internal (No direct standard mapping)
+
+===============================================================================
+MODULE 10: BIODIVERSITY & LAND USE
+===============================================================================
+Indicators: 3
+Key Indicators:
+  • Biodiversity Management & Conservation
+  • Operations in or near Sensitive Areas
+  • Land Restoration & Rehabilitation
+
+MAIN DATA SOURCES:
+  - Internal: Biodiversity assessments, habitat restoration reports, land 
+    management records, GIS mapping of operations
+  - External: IUCN Red List, Protected Planet database, World Wildlife Fund 
+    (WWF) databases, environmental impact assessments
+  - Systems: GIS systems, biodiversity assessment tools, conservation 
+    partnership tracking
+  
+STANDARDS MAPPED: BRSR
+
+===============================================================================
+MODULE 11: SUPPLY CHAIN & PROCUREMENT
+===============================================================================
+Indicators: 6
+Key Indicators:
+  • Sustainable Sourcing Policy & Process
+  • Responsible Mineral Sourcing (Conflict Minerals)
+  • Supplier Screening & Assessment
+  • Supply Chain Environmental Performance
+  • Supply Chain Social Compliance
+  • Value Chain ESG Compliance
+
+MAIN DATA SOURCES:
+  - Internal: Procurement policies, supplier codes of conduct, vendor 
+    management systems, audit reports, supplier sustainability questionnaires
+  - External: Supply chain audit firms, conflict minerals declarations, 
+    supplier sustainability platforms
+  - Systems: Vendor management systems (VMS), procurement systems, supplier 
+    scorecards, supply chain risk management platforms
+  
+STANDARDS MAPPED: BRSR, CDP
+
+===============================================================================
+MODULE 12: ECONOMIC PERFORMANCE
+===============================================================================
+Indicators: 4
+Key Indicators:
+  • Revenue & Profitability
+  • Economic Value Generated & Distributed
+  • R&D & Capex in Sustainable Technologies
+  • Economic Resilience & Risk Management
+
+MAIN DATA SOURCES:
+  - Internal: Financial statements, annual reports, tax records, budgets, 
+    capex records, R&D spending data
+  - External: Market data, economic indicators
+  - Systems: Financial management systems, budget tracking systems, project 
+    management systems
+  
+STANDARDS MAPPED: GRI (Primary), BRSR
+
+===============================================================================
+MODULE 13: LABOR & HUMAN RIGHTS
+===============================================================================
+Indicators: 9
+Key Indicators:
+  • Employment & Workforce Data
+  • Employee Turnover & Retention
+  • Wages & Minimum Wage Compliance
+  • Employee Benefits & Well-being
+  • Forced Labor & Child Labor Prevention
+  • Freedom of Association & Collective Bargaining
+  • Worker Representation & Engagement
+  • Human Rights Training & Awareness
+  • Human Rights Due Diligence
+
+MAIN DATA SOURCES:
+  - Internal: HRIS systems, payroll records, benefits administration systems, 
+    HR policies, training records, audit findings, union agreements
+  - External: Labor compliance databases, audit firms, labor organizations
+  - Systems: HRIS systems, payroll systems, benefits administration systems, 
+    learning management systems (LMS)
+  
+STANDARDS MAPPED: BRSR, GRI
+
+===============================================================================
+MODULE 14: OCCUPATIONAL HEALTH & SAFETY (OHS)
+===============================================================================
+Indicators: 9
+Key Indicators:
+  • OHS Management System
+  • OHS Training & Competence
+  • Safety Incidents & Lost Time Injuries
+  • OHS Risk Assessment & Hazard Identification
+  • Occupational Health Monitoring & Medical Surveillance
+  • Contractor & Visitor Safety
+  • Work-Related Illness & Absenteeism
+  • OHS Assessments & Audits
+  • OHS Performance & Continuous Improvement
+
+MAIN DATA SOURCES:
+  - Internal: OHS policies, incident reporting systems, training records, 
+    health surveillance program data, risk registers, internal audit reports
+  - External: OSHA databases, occupational health experts, audit firms
+  - Systems: Incident reporting systems, OSHA 300 tracking, health 
+    surveillance systems, HRIS systems
+  
+STANDARDS MAPPED: BRSR (Primary)
+
+KEY DATA POINTS:
+  ✓ Lost Time Injury Rate (LTIR)
+  ✓ Total Recordable Incident Rate (TRIR)
+  ✓ Near-miss reporting
+  ✓ Occupational illness data
+  ✓ Absenteeism rates
+
+===============================================================================
+MODULE 15: DIVERSITY, EQUITY & INCLUSION
+===============================================================================
+Indicators: 4
+Key Indicators:
+  • Gender Diversity in Leadership
+  • Gender Pay Equity
+  • Diversity of Workforce
+  • Equal Opportunity Policy & Accessibility
+
+MAIN DATA SOURCES:
+  - Internal: HRIS systems, payroll systems, organizational charts, HR 
+    policies, accessibility assessments, accommodation records
+  - External: Compensation benchmarking studies, diversity databases
+  - Systems: HRIS systems, payroll systems, employee data analytics
+  
+STANDARDS MAPPED: BRSR, GRI
+
+===============================================================================
+MODULE 16: TRAINING & SKILL DEVELOPMENT
+===============================================================================
+Indicators: 3
+Key Indicators:
+  • Training & Development Programs
+  • ESG & Ethics Training
+  • Apprenticeship & Youth Employment
+
+MAIN DATA SOURCES:
+  - Internal: Learning management systems (LMS), training records, skill 
+    assessment data, training budgets, apprenticeship program records
+  - External: Training provider databases
+  - Systems: LMS systems, training analytics, HR systems
+  
+STANDARDS MAPPED: BRSR (Primary)
+
+===============================================================================
+MODULE 17: COMMUNITY & SOCIAL IMPACT
+===============================================================================
+Indicators: 4
+Key Indicators:
+  • Social Impact Assessments
+  • Rehabilitation & Resettlement
+  • Community Engagement & Grievance Mechanisms
+  • CSR Expenditure & Projects
+
+MAIN DATA SOURCES:
+  - Internal: Social impact assessment reports, CSR budgets, project 
+    documentation, community engagement records, grievance tracking
+  - External: Community organizations, impact assessment specialists
+  - Systems: CSR project management systems, community engagement platforms, 
+    grievance management systems
+  
+STANDARDS MAPPED: BRSR (Primary)
+
+===============================================================================
+MODULE 18: CUSTOMER & PRODUCT RESPONSIBILITY
+===============================================================================
+Indicators: 4
+Key Indicators:
+  • Product Labeling & Information Requirements
+  • Product Safety & Quality
+  • Consumer Complaints Management
+  • Customer Privacy & Data Protection
+
+MAIN DATA SOURCES:
+  - Internal: Product labels, safety data sheets, quality assurance records, 
+    customer complaint systems, privacy policies, data protection audit 
+    reports
+  - External: Regulatory compliance databases, certification bodies
+  - Systems: Customer complaint management systems, quality management 
+    systems, data protection systems
+  
+STANDARDS MAPPED: BRSR, GRI
+
+===============================================================================
+MODULE 19: LEGAL & ENVIRONMENTAL COMPLIANCE
+===============================================================================
+Indicators: 3
+Key Indicators:
+  • Environmental Law Compliance
+  • Environmental Impact Assessments
+  • Other Legal Compliance
+
+MAIN DATA SOURCES:
+  - Internal: Environmental permits, compliance audit reports, EIA documents, 
+    baseline studies, monitoring records, corrective action records
+  - External: Environmental regulatory agencies, audit firms
+  - Systems: Compliance management systems, environmental monitoring systems, 
+    audit tracking systems
+  
+STANDARDS MAPPED: BRSR (Primary)
+
+===============================================================================
+KEY SYSTEMS & DATABASES REQUIRED FOR COMPLETE REPORTING
+===============================================================================
+
+CRITICAL INTERNAL SYSTEMS:
+  1. HRIS (Human Resources Information System)
+  2. Financial management/ERP systems
+  3. Environmental Management Systems (EMS)
+  4. Energy Management Systems (EMS)
+  5. Water management systems
+  6. Waste tracking systems
+  7. Health & Safety Management Systems
+  8. Incident reporting systems
+  9. Vendor/Supplier management systems
+  10. Learning Management Systems (LMS)
+  11. Customer complaint management systems
+  12. Risk management systems
+  13. GIS systems (for facility/land mapping)
+
+ESSENTIAL EXTERNAL DATABASES:
+  1. IPCC GHG Emission Factors
+  2. EPA Emission Factors
+  3. WRI Aqueduct (water risk)
+  4. IUCN Red List (biodiversity)
+  5. Protected Planet (protected areas)
+  6. Science Based Targets initiative (SBTi) database
+  7. Carbon credit registries (Gold Standard, VCS)
+  8. Stock exchange databases
+  9. Labor organization databases
+  10. Industry standards databases (ISO, OHSAS, etc.)
+
+===============================================================================
+DATA COLLECTION TIMELINE
+===============================================================================
+
+REAL-TIME MONITORING:
+  • Energy consumption (daily)
+  • Water consumption (daily)
+  • Waste generation (daily)
+  • Safety incidents (as they occur)
+  • Grievances (as filed)
+
+MONTHLY COLLECTION:
+  • Utility bills and consumption data
+  • Waste disposal records
+  • Travel and transportation data
+  • Employee-related metrics
+
+QUARTERLY COLLECTION:
+  • Financial performance data
+  • Environmental compliance status
+  • Supply chain performance
+  • Safety metrics compilation
+
+ANNUAL COMPILATION:
+  • Complete sustainability data consolidation
+  • Third-party verification (if applicable)
+  • Standards compliance verification
+  • Report publication
+
+===============================================================================
+ESTIMATED EFFORT & COMPLEXITY BY MODULE
+===============================================================================
+
+HIGH COMPLEXITY (Multiple data sources, significant effort):
+  ✓ Module 05: GHG Emissions & Climate Change
+  ✓ Module 11: Supply Chain & Procurement
+  ✓ Module 13: Labor & Human Rights
+  ✓ Module 14: Occupational Health & Safety
+
+MEDIUM COMPLEXITY (Moderate data integration):
+  ✓ Module 02: Sustainability Management & Reporting
+  ✓ Module 03: Governance & Ethics
+  ✓ Module 04: Risk & Opportunity Management
+  ✓ Module 06-10: Environmental modules
+  ✓ Module 12: Economic Performance
+
+LOW COMPLEXITY (Primarily internal/document review):
+  ✓ Module 01: General & Organizational Profile
+  ✓ Module 15-19: Specific domain modules
+
+===============================================================================
+END OF SUMMARY
+===============================================================================

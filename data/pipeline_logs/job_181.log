@@ -1,0 +1,22 @@
+[2026-03-24 21:02:20] 🚀 Started ESG processing pipeline for company='Nestle India Ltd', years=[2026]
+[2026-03-24 21:02:20] 📅 Processing years: [2026]
+[2026-03-24 21:02:20] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:02:20] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:02:20] ✅ Complete 151/151 system: 0 indicators filled
+[2026-03-24 21:02:20] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:02:21] ✅ Year 2026 completed:
+[2026-03-24 21:02:21]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:02:21]    • Total Indicators: 131
+[2026-03-24 21:02:21]    • Processed: 131
+[2026-03-24 21:02:21]    • Failed: 0
+[2026-03-24 21:02:21]    • Modules: 17
+[2026-03-24 21:02:21]    • Processing Time: 0.8s
+[2026-03-24 21:02:21] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:02:21] 📈 Pipeline Summary:
+[2026-03-24 21:02:21]    • Company: Nestle India Ltd (ID: 20)
+[2026-03-24 21:02:21]    • Years Processed: [2026]
+[2026-03-24 21:02:21]    • Years Failed: []
+[2026-03-24 21:02:21]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:02:21]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:02:21]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:02:21] 📁 Company data snapshot exported

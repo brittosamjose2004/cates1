@@ -1,0 +1,48 @@
+[2026-03-27 04:45:42] 🚀 Started ESG processing pipeline for company='Godrej Industries Limited', years=[2024]
+[2026-03-27 04:45:42] 📅 Processing years: [2024]
+[2026-03-27 04:45:42] 🔄 Starting ESG processing for year 2024...
+[2026-03-27 04:45:42] 📂 Collecting real ESG documents from online sources...
+[2026-03-27 04:45:42] ⬇️ Local reports missing; downloading for Godrej Industries Limited 2024 via scrapper_new-main
+[2026-03-27 04:46:39] 🧰 scraper.py exit code: 0
+[2026-03-27 04:46:39] 🧾 scraper stderr: E:\programs\python\python314\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.3) or chardet (7.3.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+[2026-03-27 04:46:39] 📁 Local reports after download: 1 PDF(s)
+[2026-03-27 04:46:46] ✅ Document collection: 152 documents collected from real sources
+[2026-03-27 04:46:46] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-27 04:46:47] ✅ TARGET 151 INDICATORS: 151/151 found (100.0% coverage) - EXCELLENT
+[2026-03-27 04:46:47]    • Modules: 21 complete, 0 partial, 0 empty
+[2026-03-27 04:46:47] 🚫 NO SYNTHETIC DATA - Only selected-year comprehensive database, manual input, and documents used
+[2026-03-27 04:46:47] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-27 04:46:47] 📊 Pipeline sources:
+[2026-03-27 04:46:47]    • Document sources (PDFs, reports)
+[2026-03-27 04:46:47]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-27 04:46:47]    • Online sources (web scraping)
+[2026-03-27 04:55:56] ✅ DYNAMIC PATTERN SOURCES SUCCESS:
+[2026-03-27 04:55:56]    • Total indicators: 151
+[2026-03-27 04:55:56]    • Document sources: 151 indicators
+[2026-03-27 04:55:56]    • Dynamic pattern sources: 0 indicators (WEB-SCRAPED)
+[2026-03-27 04:55:56]    • Online sources: 0 indicators
+[2026-03-27 04:55:56]    • Pattern sources now use REAL company-specific data!
+[2026-03-27 04:55:56] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-27 04:55:57] ✅ Year 2024 completed:
+[2026-03-27 04:55:57]    • Target 151 Indicators: 151/151 found (100.0% coverage)
+[2026-03-27 04:55:57]    • Total Indicators: 131
+[2026-03-27 04:55:57]    • Processed: 131
+[2026-03-27 04:55:57]    • Failed: 0
+[2026-03-27 04:55:57]    • Modules: 17
+[2026-03-27 04:55:57]    • Processing Time: 0.8s
+[2026-03-27 04:55:57] 💾 Automatically saving data sources for 2024...
+[2026-03-27 04:55:57] ✅ Data sources saved: 302 indicators from 2 sources
+[2026-03-27 04:55:57]    • Report saved: Godrej_Industries_Limited_2024_data_sources
+[2026-03-27 04:55:57]    • Coverage: 200.0%
+[2026-03-27 04:55:57] 🔒 Scraped-only enforcement (year 2024): kept=151, cleared=0, total=151
+[2026-03-27 04:55:57] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-27 04:55:57] 📈 Pipeline Summary:
+[2026-03-27 04:55:57]    • Company: Godrej Industries Limited (ID: 45)
+[2026-03-27 04:55:57]    • Years Processed: [2024]
+[2026-03-27 04:55:57]    • Years Failed: []
+[2026-03-27 04:55:57]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-27 04:55:57]    • TARGET 151 Indicators: 151/151 (100.0% coverage with real data)
+[2026-03-27 04:55:57]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-27 04:55:57] 💾 Data sources automatically saved for all processed years
+[2026-03-27 04:55:57] 📁 Company data snapshot exported

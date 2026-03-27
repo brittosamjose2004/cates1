@@ -1,0 +1,19 @@
+[2026-03-27 04:22:05] 🚀 Started ESG processing pipeline for company='IDBI BANK LIMITED', years=[2025]
+[2026-03-27 04:22:05] 📅 Processing years: [2025]
+[2026-03-27 04:22:05] 🔄 Starting ESG processing for year 2025...
+[2026-03-27 04:22:05] 📂 Collecting real ESG documents from online sources...
+[2026-03-27 04:22:05] ⬇️ Local reports missing; downloading for IDBI BANK LIMITED 2025 via scrapper_new-main
+[2026-03-27 04:23:09] 🧰 scraper.py exit code: 0
+[2026-03-27 04:23:09] 🧾 scraper stderr: E:\programs\python\python314\Lib\site-packages\requests\__init__.py:113: RequestsDependencyWarning: urllib3 (2.6.3) or chardet (7.3.0)/charset_normalizer (3.4.4) doesn't match a supported version!
+  warnings.warn(
+[2026-03-27 04:23:09] 📁 Local reports after download: 0 PDF(s)
+[2026-03-27 04:25:03] ✅ Document collection: 151 documents collected from real sources
+[2026-03-27 04:25:03] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-27 04:25:03] ✅ TARGET 151 INDICATORS: 151/151 found (100.0% coverage) - EXCELLENT
+[2026-03-27 04:25:03]    • Modules: 21 complete, 0 partial, 0 empty
+[2026-03-27 04:25:03] 🚫 NO SYNTHETIC DATA - Only comprehensive database, manual input, documents, and historical data used
+[2026-03-27 04:25:03] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-27 04:25:03] 📊 Pipeline sources:
+[2026-03-27 04:25:03]    • Document sources (PDFs, reports)
+[2026-03-27 04:25:03]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-27 04:25:03]    • Online sources (web scraping)

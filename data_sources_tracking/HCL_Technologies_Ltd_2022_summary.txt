@@ -1,0 +1,29 @@
+DATA SOURCES REPORT
+Company: HCL Technologies Ltd (ID: 1)
+Year: 2022
+Analysis Date: 2026-03-25T15:16:39.099785
+============================================================
+
+SUMMARY:
+Total Indicators: 10
+Total Sources: 2
+Target 151 Coverage: 6.6%
+Data Quality: PARTIAL
+
+SOURCES BREAKDOWN:
+
+yahoo_historical:
+  Type: scraped
+  Indicators: 0
+  Sample Data:
+
+manual_input:
+  Type: manual
+  Indicators: 10
+  Sample Data:
+    IMP-M01-I01: HCL Technologies Ltd...
+    IMP-M01-I03: 7...
+
+SOURCE METHODS:
+  MANUAL_ENTRY: manual_input
+  UNKNOWN: yahoo_historical

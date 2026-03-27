@@ -1,0 +1,130 @@
+{
+  "HCL Technologies Ltd": {
+    "latitude": 28.5706333,
+    "longitude": 77.3272147,
+    "headquarters": "Noida, India",
+    "osm_address": "Noida, Dadri, Gautam Buddha Nagar, Uttar Pradesh, India",
+    "osm_id": 18814682,
+    "osm_type": "relation"
+  },
+  "Infosys Ltd": {
+    "latitude": 12.9767936,
+    "longitude": 77.590082,
+    "headquarters": "Bengaluru, India",
+    "osm_address": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "osm_id": 7902476,
+    "osm_type": "relation"
+  },
+  "Tata Consultancy Services Ltd": {
+    "latitude": 19.054999,
+    "longitude": 72.8692035,
+    "headquarters": "Mumbai, India",
+    "osm_address": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "osm_id": 16173235,
+    "osm_type": "node"
+  },
+  "Wipro Ltd": {
+    "latitude": 12.9767936,
+    "longitude": 77.590082,
+    "headquarters": "Bengaluru, India",
+    "osm_address": "Bengaluru, Bangalore North, Bengaluru Urban, Karnataka, India",
+    "osm_id": 7902476,
+    "osm_type": "relation"
+  },
+  "Bajaj Finance Ltd": {
+    "latitude": 18.5213738,
+    "longitude": 73.8545071,
+    "headquarters": "Pune, India",
+    "osm_address": "Pune, Pune City, Pune, Maharashtra, 411001, India",
+    "osm_id": 16174445,
+    "osm_type": "node"
+  },
+  "Hindustan Unilever Ltd": {
+    "latitude": 19.054999,
+    "longitude": 72.8692035,
+    "headquarters": "Mumbai, India",
+    "osm_address": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "osm_id": 16173235,
+    "osm_type": "node"
+  },
+  "Bharti Airtel Ltd": {
+    "latitude": 28.6138954,
+    "longitude": 77.2090057,
+    "headquarters": "New Delhi, India",
+    "osm_address": "New Delhi, Delhi, India",
+    "osm_id": 2763541,
+    "osm_type": "relation"
+  },
+  "Kotak Mahindra Bank Ltd": {
+    "latitude": 19.054999,
+    "longitude": 72.8692035,
+    "headquarters": "Mumbai, India",
+    "osm_address": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "osm_id": 16173235,
+    "osm_type": "node"
+  },
+  "Nestle India Ltd": {
+    "latitude": 28.4646148,
+    "longitude": 77.0299194,
+    "headquarters": "Gurugram, India",
+    "osm_address": "Gurugram, Haryana, India",
+    "osm_id": 3577685,
+    "osm_type": "relation"
+  },
+  "NTPC LIMITED": {
+    "latitude": 28.6138954,
+    "longitude": 77.2090057,
+    "headquarters": "New Delhi, India",
+    "osm_address": "New Delhi, Delhi, India",
+    "osm_id": 2763541,
+    "osm_type": "relation"
+  },
+  "GUJARAT GAS LIMITED": {
+    "latitude": 23.2232877,
+    "longitude": 72.6492267,
+    "headquarters": "Gandhinagar, India",
+    "osm_address": "Gandhinagar, Gandhinagar Taluka, Gandhinagar, Gujarat, India",
+    "osm_id": 1104668864,
+    "osm_type": "way"
+  },
+  "DABUR INDIA LIMITED": {
+    "latitude": 28.7749966,
+    "longitude": 77.4586967,
+    "headquarters": "Ghaziabad, India",
+    "osm_address": "Ghaziabad, Uttar Pradesh, India",
+    "osm_id": 1958054,
+    "osm_type": "relation"
+  },
+  "COAL INDIA LIMITED": {
+    "latitude": 22.5726459,
+    "longitude": 88.3638953,
+    "headquarters": "Kolkata, India",
+    "osm_address": "Kolkata, Kolkata Metropolitan Area, Kolkata, West Bengal, India",
+    "osm_id": 9381363,
+    "osm_type": "relation"
+  },
+  "COMPREHENSIVE ESG TEST COMPANY": {
+    "latitude": 19.054999,
+    "longitude": 72.8692035,
+    "headquarters": "Mumbai, India",
+    "osm_address": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "osm_id": 16173235,
+    "osm_type": "node"
+  },
+  "JSW Steel Limited": {
+    "latitude": 19.054999,
+    "longitude": 72.8692035,
+    "headquarters": "Mumbai, Maharashtra, India",
+    "osm_address": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "osm_id": 16173235,
+    "osm_type": "node"
+  },
+  "Godrej Industries Limited": {
+    "latitude": 19.054999,
+    "longitude": 72.8692035,
+    "headquarters": "Mumbai, India",
+    "osm_address": "Mumbai, Mumbai Suburban District, Maharashtra, 400051, India",
+    "osm_id": 16173235,
+    "osm_type": "node"
+  }
+}

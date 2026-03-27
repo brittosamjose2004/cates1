@@ -1,0 +1,24 @@
+DATA SOURCES REPORT
+Company: BANDHAN BANK LIMITED (ID: 48)
+Year: 2023
+Analysis Date: 2026-03-27T10:10:45.804991
+============================================================
+
+SUMMARY:
+Total Indicators: 150
+Total Sources: 1
+Target 151 Coverage: 99.3%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+real_pdf_extraction:
+  Type: scraped
+  Indicators: 150
+  Sample Data:
+    IMP-M01-I01: or e...
+    IMP-M01-I02: including Banks, NBFCs, 
+Insurance companies besid...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: real_pdf_extraction

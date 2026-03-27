@@ -1,0 +1,31 @@
+DATA SOURCES REPORT
+Company: JSW Steel Limited (ID: 44)
+Year: 2021
+Analysis Date: 2026-03-25T15:16:39.085250
+============================================================
+
+SUMMARY:
+Total Indicators: 5
+Total Sources: 2
+Target 151 Coverage: 3.3%
+Data Quality: PARTIAL
+
+SOURCES BREAKDOWN:
+
+company_website:
+  Type: scraped
+  Indicators: 2
+  Sample Data:
+    IMP-M05-I01: 1.95...
+    IMP-M07-I01: 2.21...
+
+manual_input:
+  Type: manual
+  Indicators: 3
+  Sample Data:
+    IMP-M05-I01: 1.95...
+    IMP-M05-I04: Calculated based on emissions/revenue...
+
+SOURCE METHODS:
+  WEB_SCRAPING: company_website
+  MANUAL_ENTRY: manual_input

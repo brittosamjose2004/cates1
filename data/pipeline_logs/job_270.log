@@ -1,0 +1,22 @@
+[2026-03-24 21:05:56] 🚀 Started ESG processing pipeline for company='VODAFONE IDEA LIMITED', years=[2026]
+[2026-03-24 21:05:56] 📅 Processing years: [2026]
+[2026-03-24 21:05:56] 🔄 Starting ESG processing for year 2026...
+[2026-03-24 21:05:56] 📝 Filling all 151 ESG indicators with real data...
+[2026-03-24 21:05:56] ✅ Complete 151/151 system: 151 indicators filled
+[2026-03-24 21:05:56] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-24 21:05:57] ✅ Year 2026 completed:
+[2026-03-24 21:05:57]    • Complete 151/151 Indicators: All filled with real data
+[2026-03-24 21:05:57]    • Total Indicators: 131
+[2026-03-24 21:05:57]    • Processed: 131
+[2026-03-24 21:05:57]    • Failed: 0
+[2026-03-24 21:05:57]    • Modules: 17
+[2026-03-24 21:05:57]    • Processing Time: 0.7s
+[2026-03-24 21:05:57] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-24 21:05:57] 📈 Pipeline Summary:
+[2026-03-24 21:05:57]    • Company: VODAFONE IDEA LIMITED (ID: 29)
+[2026-03-24 21:05:57]    • Years Processed: [2026]
+[2026-03-24 21:05:57]    • Years Failed: []
+[2026-03-24 21:05:57]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-24 21:05:57]    • Total Indicators: 151/151 (100% coverage with real data)
+[2026-03-24 21:05:57]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-24 21:05:57] 📁 Company data snapshot exported

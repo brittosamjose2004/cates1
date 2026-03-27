@@ -1,0 +1,31 @@
+DATA SOURCES REPORT
+Company: Godrej Industries Limited (ID: 45)
+Year: 2024
+Analysis Date: 2026-03-27T10:25:57.506248
+============================================================
+
+SUMMARY:
+Total Indicators: 302
+Total Sources: 2
+Target 151 Coverage: 200.0%
+Data Quality: EXCELLENT
+
+SOURCES BREAKDOWN:
+
+real_pdf_extraction:
+  Type: scraped
+  Indicators: 151
+  Sample Data:
+    IMP-M01-I01: and Member will be re...
+    IMP-M01-I02: Mover. GPL is also included in the Emerging Market...
+
+manual_input:
+  Type: manual
+  Indicators: 151
+  Sample Data:
+    IMP-M01-I01: and Member will be re...
+    IMP-M01-I02: Mover. GPL is also included in the Emerging Market...
+
+SOURCE METHODS:
+  COMPREHENSIVE_EXTRACTION: real_pdf_extraction
+  MANUAL_ENTRY: manual_input

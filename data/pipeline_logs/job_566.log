@@ -1,0 +1,43 @@
+[2026-03-27 03:14:37] 🚀 Started ESG processing pipeline for company='EMAMI LIMITED', years=[2024]
+[2026-03-27 03:14:37] 📅 Processing years: [2024]
+[2026-03-27 03:14:37] 🔄 Starting ESG processing for year 2024...
+[2026-03-27 03:14:37] 📂 Collecting real ESG documents from online sources...
+[2026-03-27 03:14:50] ✅ Document collection: 0 documents collected from real sources
+[2026-03-27 03:14:50] 📊 Processing TARGET 151 ESG indicators with enhanced real data system...
+[2026-03-27 03:14:50] ✅ TARGET 151 INDICATORS: 0/151 found (0.0% coverage) - PARTIAL
+[2026-03-27 03:14:50]    • Modules: 0 complete, 0 partial, 21 empty
+[2026-03-27 03:14:50]    • Missing: 151 indicators (first 3: IMP-M01-I01, IMP-M01-I02, IMP-M01-I03...)
+[2026-03-27 03:14:50] ⚠️ Enhanced Real Data Processing: Need more data sources for complete coverage
+[2026-03-27 03:14:50] 🔄 Running comprehensive pipeline with DYNAMIC PATTERN SOURCES...
+[2026-03-27 03:14:50] 📊 Pipeline sources:
+[2026-03-27 03:14:50]    • Document sources (PDFs, reports)
+[2026-03-27 03:14:50]    • Dynamic pattern sources (web-scraped company data)
+[2026-03-27 03:14:50]    • Online sources (web scraping)
+[2026-03-27 03:28:08] ✅ DYNAMIC PATTERN SOURCES SUCCESS:
+[2026-03-27 03:28:08]    • Total indicators: 0
+[2026-03-27 03:28:08]    • Document sources: 0 indicators
+[2026-03-27 03:28:08]    • Dynamic pattern sources: 0 indicators (WEB-SCRAPED)
+[2026-03-27 03:28:08]    • Online sources: 0 indicators
+[2026-03-27 03:28:08]    • Pattern sources now use REAL company-specific data!
+[2026-03-27 03:28:08] 📊 Processing 21 ESG modules and validating indicators...
+[2026-03-27 03:28:10] ✅ Year 2024 completed:
+[2026-03-27 03:28:10]    • Target 151 Indicators: 1/151 found (0.7% coverage)
+[2026-03-27 03:28:10]    • Total Indicators: 131
+[2026-03-27 03:28:10]    • Processed: 131
+[2026-03-27 03:28:10]    • Failed: 0
+[2026-03-27 03:28:10]    • Modules: 17
+[2026-03-27 03:28:10]    • Processing Time: 1.8s
+[2026-03-27 03:28:10] 💾 Automatically saving data sources for 2024...
+[2026-03-27 03:28:10] ✅ Data sources saved: 1 indicators from 1 sources
+[2026-03-27 03:28:10]    • Report saved: EMAMI_LIMITED_2024_data_sources
+[2026-03-27 03:28:10]    • Coverage: 0.7%
+[2026-03-27 03:28:10] 🎉 Pipeline completed successfully for all 1 years
+[2026-03-27 03:28:10] 📈 Pipeline Summary:
+[2026-03-27 03:28:10]    • Company: EMAMI LIMITED (ID: 40)
+[2026-03-27 03:28:10]    • Years Processed: [2024]
+[2026-03-27 03:28:10]    • Years Failed: []
+[2026-03-27 03:28:10]    • ESG Modules: 21 (GHG, Energy, Water, Waste, OHS, etc.)
+[2026-03-27 03:28:10]    • TARGET 151 Indicators: 1/151 (0.7% coverage with real data)
+[2026-03-27 03:28:10]    • Standards: BRSR, CDP, EcoVadis, GRI
+[2026-03-27 03:28:10] 💾 Data sources automatically saved for all processed years
+[2026-03-27 03:28:10] 📁 Company data snapshot exported
